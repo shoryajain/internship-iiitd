@@ -71,3 +71,14 @@ for x in temporary:
     b = x[x.rindex(' ')+1:]
     stop_routes.setdefault(a,[]).append(b)
 
+with open('temp4.txt') as f:
+    temporary = f.read().splitlines()
+
+stops = dict()
+for x in temporary:
+    a = x[:x.index(' ')+1]
+    b = x[x.index(' ')+1:]
+    stops.setdefault(a,0)
+    stops[a] = b
+
+
