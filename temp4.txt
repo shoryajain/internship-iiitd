@@ -1,0 +1,3465 @@
+0 Adarsh Nagar / Bharola Village
+1 British High Comission
+10 Nangli Sakrawati
+100 Palam Colony Flyover
+1000 Andrews Ganj Shiv Mandir / Ansal Plaza
+1001 Rohini Sec 7 and 8 Crossing
+1002 Baba Haridass Gitanjali Enclave
+1003 National Stadium
+1004 E.S.I. Hospital
+1005 ISTM
+1006 Telephone Exchange
+1007 Ranhola Extension
+1008 Nizamuddin Road Bridge
+1009 I P College
+101 Dabri Crossing (Pankha Road)
+1010 Om Vihar
+1011 Engg College Shahbad
+1012 Pusta No 3 Sonia Vihar
+1013 Chetan Bihari Mandir Sant Nagar
+1014 Banarsi Daas Estate Timarpur
+1015 Bank
+1016 Vigyan Bhawan
+1017 Dayal Singh College
+1018 Jal Vihar Terminal
+1019 Mukundpur (Changeover Point)
+102 Sir Chhotu Ram Polytechnic
+1020 Nangli Sakrawati Crossing
+1021 Mohan Garden
+1022 Surajkund Crossing
+1023 Princess Park/ Airforce Noval Office Enclave
+1024 Swatantra Bharat Mills
+1025 Nehru Vihar Crossing
+1026 PS Ranhola
+1027 Nazafgarh Terminal
+1028 Mitraon School
+1029 Bentex
+103 Aurobindo College
+1030 Jharoda Kalan
+1031 Gagan Cinema
+1032 Britannia
+1033 Krishna Marg Kardam Puri
+1034 Wazir Pur JJ Colony
+1035 Chhawni Hospital
+1036 Primary School
+1037 Rohini Sec 22 Terminal
+1038 Sector 17/18 More Dwarka
+1039 Ashirwad Apartment
+104 Sunder Vihar
+1040 Saket A Block (Malviya Nagar Metro Station)
+1041 Kabul Line
+1042 Uttam Nagar Terminal
+1043 Rohini Sec 16 Crossing
+1044 Rohini Sec 17/16
+1045 Jhatikara Xing
+1046 Rama Vihar
+1047 Mandi House
+1048 Kailash Colony
+1049 Rithala Metro Station
+105 NCERT
+1050 Mangolpur School
+1051 Rajdhani College / Raja Garden
+1052 Mangla Puri Terminal
+1053 Khel Gaon / Siri Fort Road
+1054 Civil Line Metro Station
+1055 Mukund Pur Crossing
+1056 Andrews Ganj
+1057 Ice Factory (Rani Jhansi Road)
+1058 Goyla Village
+1059 Libaspur GT Road
+106 Jia Sarai
+1060 Mundhela School II
+1061 New Seema Puri Depot Cluster
+1062 Maharishi Balmiki
+1063 Nauroji Nagar
+1064 Tughlaq Crescent
+1065 Jagriti Enclave
+1066 Payal Cinema
+1067 Agar Nagar
+1068 KharKhari Jatmal
+1069 Minto Road Terminal
+107 Ridge Road
+1070 Sec-24 Rohini
+1072 Puspanjali Enclave
+1073 Saleemgarh Road
+1074 Budhela Village / C Block Vikas Puri
+1075 Mangolpur Kalan Village
+1076 Palam Colony
+1077 Pusa Road Petrol Pump Sadhu Vaswani Marg
+1078 Kirari Railway Xing
+1079 Hans Apartment
+108 Chhawla Village
+1080 Talkatora Stadium Garden
+1081 Mukharji Nagar Tank
+1082 Maya Enclave
+1083 Kaka Nagar
+1084 Vinay Marg
+1085 Kirodi Mal College
+1086 R K Puram Sec-4
+1087 Mall Road
+1088 Nirman Bhawan
+1089 Lodhi Hotel
+109 C2D Janakpuri
+1090 Vijay Enclave
+1091 Hanuman Mandir Rohini Sec 24
+1092 TilangPur Kotla
+1093 Masood Pur Village
+1094 Rohini West Metro Station
+1095 T Block Magol Puri
+1096 Dhaula Kuan
+1097 Ghuman Hera DTC Depot
+1098 Rohini Sec 20/21 More
+1099 Bhavishya Nidhi Enclave
+11 B-4 Keshav Puram
+110 Dwarka Sec-23 Crossing
+1100 Sewa Kutir
+1101 MCKR Hospital
+1102 Puspanjali G Block
+1103 Lok Vihar
+1104 Mundka Village Metro Station
+1105 Dwarka Sec 2-6
+1106 Kouria Bridge
+1107 Kondali Old
+1108 Rewla Tajpur Crossing
+1109 Brar Square
+111 ESI Hospital
+1110 Okhla Depot IV CWS II
+1111 Kakrola Bridge
+1112 Kushak Nallah Depot
+1113 ISBT Kashmere Gate
+1114 B-Block East of Kailash
+1115 Bhajan Pura
+1116 Jahangirpuri K Block
+1117 Hargovind Enclave
+1118 Swatantra Bharat Mills
+1119 Shaheen Bagh Thokar No 5
+112 Osho Dhyan Mandir Jhatikra Road
+1120 Shivaji Park
+1121 Qamruddin Nagar
+1122 Holy Family Hospital
+1123 Baprola Village
+1124 Ashram Chowk
+1125 Nirmal Vihar
+1126 Kotla Vihar Phase II
+1127 Jhuljhuli Crossing
+1128 Radha Swami Satsang
+1129 Dwarka Sec-21 Metro Station
+113 DAV School
+1130 New Delhi Railway Station Gate 1
+1131 Jhatikara Crossing
+1132 Rani Khera Bus Stand
+1133 Buddh vihar
+1134 Mauj Pur
+1135 Kalkaji Depot
+1136 Vikas Puri Crossing
+1137 Outer Ring Road Makbara Chowk
+1138 Clock Tower
+1139 Maurice Nagar II
+114 Mata Din Kaur Public School
+1140 Ganesh Nagar Check Post
+1141 R R Line
+1142 Bapu Dham
+1143 C-2 Janak Puri
+1144 Karala Xing
+1146 DDA Booster Pump Station
+1147 Sarvodya School Daulat Pur
+1148 Shanti Vana
+1149 Nirankari Sarovar Burari Xing
+115 Natthupura
+1150 Khajuri
+1151 Suraj Vihar
+1152 Budha Jayanti Park
+1153 Uttam Nagar / A1 Janak Puri
+1154 Harsh Vihar
+1155 Keshav Nagar Darshan Dham
+1156 Kishan Garh
+1157 Mayur Vihar Phase III Crossing
+1158 JJ Colony Wazir Pur
+1159 Mata Chandan Devi Hospital
+116 South Moti Bagh
+1160 Windsor Place
+1161 Pusta No 1 Sonia Vihar
+1162 Rohini  Sec-1 Avantika
+1164 E Block Greater Kailash- II
+1165 Begumpur
+1166 Tilak Nagar
+1167 Ram Pura
+1168 Satya Puram Jharoda
+1169 South Park Appartments CR Park
+117 Shaheed Bhagat Singh Marg
+1170 Pant Nagar
+1171 Dariyapur Kalan School
+1172 Nehru Nagar
+1173 Madhuban Chowk (Outer Ring Road)
+1174 S.K.V.Dhansa
+1175 Tilak Bridge
+1176 Shahdra Border
+1177 Mother Dairy
+1178 Ajmeri Gate
+1179 Punjabi Bagh Club
+118 Pumposh Enclave
+1180 Vasant Lok
+1181 Mehrauli Terminal
+1182 Deepali Chowk
+1183 Green Field School
+1184 Shahadara Border Road No 62
+1185 Mangolpuri S Block
+1186 J and K House
+1187 Tikri Kalan Village
+1188 Kurani More
+1189 Harkesh Nagar
+119 Trilokpuri 13 Block
+1190 Sujan Singh Park
+1191 East Vinod Nagar Depot
+1192 Ladpur School
+1193 P S Pandav Nagar
+1194 Peera Garhi Depot
+1195 DDA Flats Hari Nagar
+1196 Jatt Khor Crossing
+1197 Zunk Market
+1198 Chhawani Hospital
+1199 SDM Office Bank Enclave
+12 Bawana Village
+120 Tara Apartment
+1200 Air Force HQ / Subroto Park
+1201 Lodhi Colony
+1202 R K Puram Sec-5
+1203 Vivek Vihar ITI
+1204 Punjabi Bagh Terminal
+1205 Dabri Xing
+1206 Lodhi Road Crossing
+1207 Vocational College
+1208 Teen Murti
+1209 S Block Mangol Puri
+121 ISBT Kashmere Gate
+1211 Bala Sahib Gurudwara
+1212 Supply Depot
+1213 Guru Govind Singh Crossing (Faiz Road)
+1214 CRRI
+1215 Ice Factory
+1217 Burari Garhi
+1218 Karol Bagh Gurgaon Stand
+1219 Yamuna Vihar Block C-1
+122 Mall Road
+1220 JLN Marg
+1221 PS Tuglak Road
+1222 Prehlad Pur
+1223 Badarpur Village
+1224 St Thomas School Goyla Vihar
+1225 Bentax
+1226 MIG Flates Loni Road
+1227 East Guru Angad Nagar
+1228 Rithala Metro Station
+1229 Prem Nagar
+123 Om Vihar
+1230 Janak Cinema
+1231 Kendriya Terminal
+1232 Shaheed Bhagat Singh Colony Karawal Nagar
+1233 Deep Market Ashok Vihar
+1234 Neethi Apartment
+1235 Rajendra Place / Karol Bagh Telephone Exchange
+1236 Bamnoli Crossing
+1237 Thana Sabzi Mandi- Ice Factory
+1238 Shaheen Bagh Thokar No. 6
+1239 Samalka Xing
+124 Samaspur Jagir Village
+1240 New Usman Pur Pusta No-1
+1241 GTB Hospital Crossing
+1242 Naraina Vihar
+1243 Africa Avenue
+1244 RML Hospital
+1245 Chitra Gupta Road
+1246 Trilokpuri 13-Block
+1247 Moti Bagh 1
+1248 Telephone Exchange Karol Bagh
+1249 CRRI
+125 Narmada Apartment
+1250 Welcome Colony Metro Station
+1251 Defence Colony
+1252 Akbar Bhawan
+1253 RR Hospital / Maharana Pratap Chowk
+1254 M Block Vikaspuri
+1255 Jai Mata Market Tri Nagar Terminal
+1256 C-1 Janakpuri
+1257 Deep Vihar
+1258 Madipur JJ Colony Metro Station
+1259 Amir Khusro Park / Oberoi Hotel
+126 APS Colony
+1260 Madanpur Khadar
+1261 Chirag Dilli
+1262 Dwarka Sec-19 Modern School
+1263 Jatt Khor Village
+1264 Sena Bhawan
+1265 Ranhola II
+1266 Rithala Crossing
+1267 Choudhary Mohalla
+1268 Rishal Vihar
+1269 Meet Nagar/Ashok Nager
+127 Naraina Vihar
+1270 Palika Kendra
+1271 Pumposh Enclave
+1272 Bara Hindu Rao
+1273 Sarai Rohilla Flyover
+1274 Kalyan Puri Xing
+1275 Amrit Vihar Colony
+1276 BDO Office Roshan Pura
+1277 Raj Nagar
+1278 Mundka Village Xing
+1279 Mubarakpur Xing
+128 Shaheed Bhagat Singh Nagar
+1280 Sant Pura
+1281 Shahbad Dairy
+1282 Shanti Niketan / RK Puram Sec 9
+1283 C-Lal Chowk
+1284 DSIDC Bawana/ Dhakewala
+1285 Jharoda Nala Crossing
+1286 Janak Vihar
+1287 ShivRam Park
+1288 Sri Niwaspuri / PG DAV College Lajpat Nagar
+1289 Shalimar Bagh Desu Colony
+129 Peera Garhi Chowk
+1290 Titiksha Public School
+1291 Kali Bari Marg
+1292 Defence Colony
+1293 Nai Basti
+1294 Surehra Crossing
+1295 Tees Hazari Animal Hospital Mori Gate
+1296 Roshnara Bagh
+1297 Masood Pur Village
+1298 DJB
+1299 Tees Hazari Court
+13 Mitraon Village
+130 DPS / Police Station Nizamuddin (Lodhi Road)
+1300 Rajeev Nagar
+1301 Pitampura CD Block (Aggrasen model School)
+1303 Arjun Park
+1304 Balmiki Mandir
+1305 Gokul Puri
+1306 Sukhdev Vihar Depot
+1307 FAI
+1308 Libas Pur GT Road
+1309 Power House
+131 Kamal Cinema
+1310 Zafrabad
+1311 Kamla Nagar/ Roop Nagar
+1312 Mukharji Nagar Xing
+1313 Shalimar Bagh Richi Rich
+1314 CV Raman ITI
+1315 BakkarWala Crossing
+1316 Shastri Bazar
+1317 Maharaja Agrassen School
+1318 MB Road (TBag)
+1319 Cargo / Express Terminal Gate
+132 Dhansa Village
+1320 Central School
+1321 Preet Vihar
+1322 Mundhela Khurd Village
+1323 SPM College
+1324 Lokesh Cinema Nangloi
+1325 Kalkaji Mandir
+1326 DPS Matiyala
+1327 S.Sr. Kanya Vidhyalaya
+1328 Road no-44 Xing
+1329 Dwarka Sec 16C/GGS IP University
+133 South Patel Nagar (Metro Station)
+1330 Chandar Vihar
+1331 Sumesh Vihar
+1332 Dauralla Border
+1333 GTK Bypass
+1334 Gazipur Depot
+1335 Manohar Nagar
+1336 Shahpur Jat
+1338 Uttri Pitam Pura
+1339 GTB Nagar / Haqiqat Nagar
+134 ARSD College / Dhaula Kuan
+1340 Kapashera Village
+1341 Lajpat Nagar 1 Ring Road
+1342 Tilak Pul
+1343 Shyam Vihar
+1344 RK Puram Crossing
+1345 Tikri Border
+1346 Sumesh Vihar
+1347 Rohini Sec 18 Bus Terminal
+1348 Rohini East
+1349 Shastri Park Pusta Road
+135 Sukhbeer Nagar
+1350 Ashok Vihar Crossing
+1351 Mahipal Pur Village
+1352 Ekta Garden- Harijan Basti
+1354 Rohini Sec-11 (Aggarwal Sabha)
+1355 North Paint Nursing Home
+1356 Taj Pur Village
+1357 C-5A Janakpuri
+1358 Sewa Nagar Flyover
+1359 DAV School
+136 Goyla Dairy
+1360 Hari Nagar Depot
+1361 R K Puram Sec-1
+1362 Tibiya College
+1363 Sagarpur / Vashisht Park
+1364 Mangol Pur Khurd
+1365 Kapashera Village
+1366 Sultanpuri Terminal
+1367 Sant Nagar Main Market
+1368 Naraina Village
+1369 PTS
+137 New Anaj Mandi
+1370 Mubarakpur School
+1371 Nehru Bus Stand Goyla Dairy
+1372 Laghu Udyog Sansthan (ModiMill)
+1373 Bara Bagh
+1374 Panchayat Ghar
+1375 Parivar Apartment
+1376 Vivekanand Mahila College
+1377 Khel Gaon CWG Village
+1378 Nangal Raya DDA Market
+1379 Parivar Apartment
+138 Dwarka Sec-21 Crossing
+1380 DDA Flats Kalkaji
+1381 Virender Nagar/ Dilli Haat
+1382 Annpurna Mandir
+1383 PS Najafgarh
+1384 Videocon Tower
+1385 Multan Nagar
+1387 Bank Enclave
+1388 Shadipur Colony
+1389 Samaspur Khalsa
+139 Prem Nursary
+1390 Kendriya Terminal
+1391 Metro Train Depot
+1392 Nehru Place Terminal
+1393 Uttam Nagar Terminal
+1394 Moti Bagh Gurudawara Nanakpura
+1395 Nizamuddin Road Bridge
+1396 Mayur Vihar Phase III Terminal / Paper Market
+1397 New Sabzi Mandi
+1398 Nirman Vihar
+1399 Zoo
+14 Hargovind Enclave
+140 Wazir Pur Industrial Area/ Ashok Vihar Crossing
+1400 Tughlaq Crescent
+1401 Karala School
+1402 Keshav Mahavidhyalaya
+1403 Delhi Gate
+1404 Govindpuri Extn Gali No. 16
+1405 Bawana School
+1407 Zunk Market
+1409 Harewali Xing
+141 Bharthal Village (Shyam Mandir)
+1410 National Archives
+1411 Nand Nagari Terminal
+1412 Bhajanpura
+1413 Rani Bagh Railway Colony
+1415 Centaur Hotel / Nangal Dairy
+1416 Shastri Nagar Metro Station
+1417 Azadpur
+1418 Safiyabad Xing
+1419 Tughlaqabad Village
+142 Ayurvigyan Nagar
+1420 Ashoka Hotel
+1421 Green Park
+1422 Kair Village
+1423 Chandra Lok
+1424 Ghevra Crossing Rohtak Road
+1426 Avantika Crossing
+1427 Madhuban Chowk (Outer Ring Road)
+1428 New Kondali A1 Crossing
+1429 Jaipur House
+143 Rohini Sec 7/9
+1430 Swami Malai Mandir
+1431 Sucheta Kriplani Hospital
+1432 Kabul Line
+1433 Bharthal Village (Shyam Mandir)
+1434 Siras Pur Crossing
+1435 Surakh Pur Crossing
+1436 Bhartiya Vidya Bhawan
+1437 Khyber Pass
+1438 Pocket-5 Mayur Vihar Ph-1
+1439 Ladpur Village
+144 St Stephen Hospital
+1440 Inderlok Metro Station
+1441 Mauj Pur
+1442 Peeli Kothi
+1443 Netaji Subhash Palace (Wazirpur Depot) Road No 41
+1444 Dilshad Garden Depot Cluster
+1447 FAI
+1448 Government Quarter Sarai Rohila
+1449 Kangra Niketan
+145 Durga Vihar
+1450 Primary School
+1451 Nityanand Marg
+1452 C2B Janakpuri
+1453 Dhansa Village
+1454 Hasanpur Village
+1455 Bawana Village
+1456 Shiv Enclave Dichau
+1457 Jhatikra Crossing Pandwala Road
+1458 Harewali Crossing
+1459 Surakh Pur Crossing
+146 C-2-B Janakpuri
+1460 Nirankari Colony
+1461 Ambedkar Nagar Depot
+1462 Kirti Nagar
+1463 Shastri Nagar Metro Station
+1464 B3 Keshav Puram
+1465 KarKarDooma Crossing
+1466 Mandi House
+1468 Karkardooma Crossing
+1469 Rang Puri Pahari
+147 Saraswati Kunj
+1470 Faiz Road
+1471 Shiv Murti
+1472 Lucknow Road
+1473 Shivaji Stadium Terminal
+1474 ISBT Ring Road
+1475 Shanti Niketan
+1476 Kerala School
+1477 Dharamshila Hospital
+1478 Hiran Kudna Crossing
+1479 Dwarka Sec-23B Crossing
+148 Central School (MCKR)
+1480 Nirankari Colony
+1481 Mahindra Park
+1483 Nilothi Crossing
+1484 Bawana
+1485 IGI Airport Terminal 2 (Air India Office)
+1486 Shashi Garden Xing
+1487 Bapa Nagar
+1488 Gur Mandi
+149 Andheria More (Chhatarpur Metro Station)
+1490 Beriwala Bagh
+1491 Sunehri Masjid/ G Block
+1492 South Extn Kotla Petrol Pump
+1493 Swami Nagar
+1494 SNPD
+1495 Dwarka Sec 2-6
+1496 Govindpuri
+1497 Udyog Nagar
+1498 Krishna Vihar
+1499 Asian Market
+15 NajafGarh Dhansa Stand
+150 Ludlow Castle
+1501 Nirmal Vihar
+1502 Jhilmil Crossing / Dilshad Garden GT Road
+1503 Dauralla Village
+1504 Vishwa Vidyalaya Metro Station
+1505 Dsidc Bawana
+1506 C 4 Yamuna Vihar
+1507 Prehlad Pur
+1508 AirForce Station (BaniCamp)
+1509 Dwarka Sec 23 / Pochan Pur Village
+151 Shakar Pur School Block
+1510 Fateh Nagar
+1511 Lajpat Nagar Ring Road
+1512 Kalyan Puri Terminal
+1513 Shivpuri Colony
+1514 Swaran Cinema
+1515 Janakpuri B-2
+1516 Rajdhani Enclave / Mahindra Park
+1517 Dayal Singh College
+1518 Ridge Road
+1519 Mahipalpur Village (NH-8)
+152 TilangPur Kotla
+1520 China - Norve Embasy
+1521 Holy Family Hospital
+1522 B-3 Keshav Puram
+1523 Jhatikra Village
+1524 Rani Khera
+1525 Chhawla Village
+1526 Goela Dairy Crossing
+1527 PS Mandir Marg
+1528 IIT Gate
+1529 Bamnoli Power Station
+153 Rishal Garden
+1530 Dispensary Paharganj
+1531 Saini Enclave
+1532 Tilak Bridge
+1533 Kanjhawala Chowk
+1534 Rithala Village
+1535 Radha Swami Satsang Sec-23 Dwarka
+1536 Power House
+1537 Jhankar Crossing
+1538 Vasant Vihar Depot
+1539 Shani Mandir / Vasant Village
+154 Punjabi Bagh Terminal
+1540 RK Puram Sec-1
+1541 Indian Oil Corporation
+1542 East Patel Nagar
+1543 Nand Nagari Depot
+1544 Vasant Kunj sec-B1
+1545 Punjab Khor Village
+1546 Bihari Pur Gaon
+1547 R R Line
+1548 Prashant Vihar F Block
+1549 Rohini Sec-21
+155 Model Town-III
+1550 Kartar Nagar
+1551 Old Delhi Railway Station
+1552 APS Colony/ Jharera Gaon
+1553 Dwarka Sec 21 Crossing Bharthal Chowk
+1554 AIR Station
+1555 District Centre Nazafgarh Road
+1556 Dwarka Sec-21 Crossing
+1557 Rohini Sec 3/4/5/6 Xing (Vishram Chowk)
+1558 Wazir Pur Industrial Area/ Ashok Vihar Crossing
+1559 Gujranwala Town
+156 Kendriya Terminal (Pt. Pant Marg)
+1560 Delhi University
+1561 Badarpur MB Road
+1562 Kali Bari Marg
+1563 Pusta No 5 Sonia Vihar
+1564 Sarita Vihar D Block / Madanpur Khadar Village
+1565 IP Depot Metro Station
+1566 Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal
+1567 Kirari More
+1568 Qadipur
+1569 Dewta Wala mandir
+157 Railway Road Bridge
+1570 Press Apartment
+1571 Qutub Minar Metro Sation
+1572 Laxmi Nagar / Shakarpur Crossing
+1573 PS Kamla Market
+1574 Tuda Mandi
+1576 Inderlok Metro Station
+1577 Geeta Colony
+1578 Supreme Court
+1579 Todapur Village
+158 Sultan Puri Crossing
+1580 Rajokari Crossing
+1581 Nilothi Crossing
+1582 PS Kirti Nagar
+1583 Radisson BLU Hotel
+1584 Yamuna Sports Complex
+1585 South Enclave
+1586 Meera Bagh
+1587 Lodhi Colony
+1588 Vivek Vihar Girls School
+1589 Chhajupur
+159 Shastri Park
+1590 Toll Tax Post
+1591 Vivek Vihar Terminal
+1592 Ashok Vihar B Block
+1594 DDA Market Kalkaji
+1595 Tahir Pur
+1596 Narain DharamKanta
+1597 Model Town II
+1598 JG 3 Block Vikaspuri
+1599 GTB Hospital Xing
+16 Super Bazar
+160 Government Senior Secondary School
+1600 J and K House
+1601 Tikri Hospital
+1602 Rajouri Garden Market
+1603 Supreme Court
+1604 Shankar Vihar / National Highway 8
+1605 Air Force Station
+1606 Mukund Pur Chowk
+1607 PS Vikas Puri
+1608 Kangra Niketan
+1609 Saraswati Kunj Jharoda
+161 Chirag Dilli
+1610 Wazirabad Crossing GT Road
+1611 Krishna Vihar
+1612 Ram Prastha Temple
+1613 Vijay Enclave
+1614 Khichdipur
+1615 Lajwanti Garden (Nangal Rai)
+1616 ESI Hospital
+1617 PS Ranhola
+1618 Bhartiya Vidya Bhawan
+1619 Siras Pur Crossing
+162 PS Mayapuri
+1620 Wazirpur Depot
+1621 Shivaji Stadium
+1622 Central School
+1623 Nangli Sakrawati Crossing
+1624 TV Tower (Power House)
+1625 Padmani Enclave
+1626 Kanjhawla Chowk
+1627 Gandhi Darshan
+1628 Rohini Sec 17/16
+1629 Anand Vihar ISBT Main Road
+163 KharKhari Rondh
+1630 Qutub Hotel
+1631 Jai Mata Market Tri Nagar Terminal
+1632 Dena Apartment
+1633 C-4H Janakpuri
+1634 Toll Tax Post
+1635 IIT Gate
+1636 Mahipal Pur Village
+1637 Asian Market
+1638 Timarpur
+1639 E.S.I. Hospital
+164 Shaheen Bagh Thokar No 8 (A F Enclave )
+1640 Baba Ramdev Mandir
+1641 ISBT Maharana Pratap Bus (T)
+1642 R K Puram Sec-4
+1643 Don Basco School
+1644 Adarsh Nagar Metro Station
+1645 Vivek Vihar Ram Mandir
+1646 Ashok Vihar Xing
+1647 Power House Rohini Sec 24
+1648 Bhogal (Jungpura)
+1649 Modern School Vasant Vihar F Block
+165 ITPO Gate No. 3
+1650 Satya Niketan Dhaula Kuan
+1651 Keshav Kunj / Pochan Pur Crossing
+1652 Kamla Nehru College/Niti Bag
+1653 Khalsa College
+1654 Onida Factory
+1655 Dichau Village
+1656 Deep Vihar
+1657 Tatesar Gurukul
+1658 Press Enclave
+1659 Shakur Pur
+166 Shiv Enclave Dichau
+1660 Zoo
+1661 Hari Nagar Depot
+1662 Kanjhawala Chowk (Sarvodya Kanya Vidhyalaya)
+1663 Prehladpur School
+1664 Hi-Land Apartments
+1665 Azadpur
+1666 Bajit Pur Xing
+1667 Ghumanhera Crossing
+1668 Alpana Cinema (Model Town Mtr Stn)
+1669 Inder Enclave
+167 Dichau Chowk
+1670 Kalkaji Mandir (MaaAnandmayeeMarg)
+1671 Balmiki Mandir Marg
+1672 Nehru Place
+1673 Pittampura RU-Block
+1674 Sec 5/8 Narela
+1676 Palam Colony Flyover
+1678 Ashram (Hari Nagar)
+1679 Dharam Pura
+168 Pandwala Village
+1681 Virender Nagar / Dilli Haat
+1682 Meghdoot Bhawan
+1683 Nanak Piyau / DTC Colony
+1684 Inderlok Metro Station
+1685 Pandwala Khurd
+1686 Neethi Apartment
+1687 Seelampur Metro Station
+1688 B Block New Moti Nagar
+1689 Kotla Vihar Phase II
+169 Sadar Bazar
+1690 Liberty Cinema
+1691 Lodhi Garden / Mousam Bhawan
+1692 Indra Kalyan Vihar
+1693 Mother Dairy Crossing
+1694 Govt Model School / Ambedkar Park
+1695 Rani Bagh
+1696 Rajeev Nagar
+1697 ISBT Kashmere Gate (Lothian Road)
+1698 SFS Quarter Gazipur
+1699 Ansari Health Care
+17 Kapashera Crossing
+170 Model Town III
+1700 Shahdara (Shyam Lal College)
+1701 DDA Flats Lado Sarai
+1702 Mubarakpur Xing
+1703 Inder Puri JJ Colony
+1704 Nehru Place Apartments
+1705 Madanpur Khadar Crossing
+1706 Qutub Vihar Phase-I Kikar Stand
+1707 Roshnara Road
+1708 Gandhi Vihar Crossing (Duty ChangeOver)
+1709 Karampura Terminal
+171 Wood Market (Mansarovar Garden)
+1710 Mohan Singh Market
+1711 C R Park Market II
+1712 Desu Colony Janak Puri
+1713 Pitampura ND Block
+1714 COD Ring Road
+1715 Shakur Pur JJ Colony/ Britannia
+1716 Moti Bagh 1
+1717 Lajpat Nagar (Ring Road)
+1718 Samrat Enclave
+1719 Gairison Eng.
+172 Bharti Nagar
+1720 Rohini Sec 22/24 Crossing
+1721 Zafrabad
+1722 Rohini Sec 17/16
+1723 Udaseen Ashram
+1724 Indian AirLines/Priya Cinema
+1725 Shalimar Bagh AE Block
+1726 Shankar Road
+1727 Kathuria Public School (Sai Darbar Mandir)
+1728 Badarpur Border
+1729 Gagan Cinema Wazirabad Road
+173 Sunehari Pulla Depot / Jawaharlal  Nehru Stadium Terminal
+1730 Delhi Gate
+1731 Tihar Jail
+1732 Lodhi Colony
+1733 Indra Service Station
+1734 Jama Masjid
+1735 Vivekanand Marg
+1736 Navin Palace
+1737 Kirari Nahar
+1738 Nirman Vihar Metro Station
+1739 Mangolpuri K Block (Sanjay Gandhi Hospital)
+174 Shankar Vihar/ National Highway 8
+1740 Kangan Heri - II
+1741 Dallu Pura
+1742 East Guru Angad Nagar
+1743 Bawana Depot
+1744 Sultan Pur Xing
+1745 Bamnoli More
+1746 Issapur Xing
+1747 Ghuman Hera Village
+1748 Sonia Vihar
+1749 F Block Kirti Nagar
+175 Mahipal Pur Village
+1750 Shri Golok Dham Bijwasan School
+1751 Nangli Dairy
+1752 Paras Cinema
+1753 Police Station Nizamuddin (Dargah)
+1754 Rampuri Gali No-13
+1757 Old Secretariat (Postal Account Office)
+1758 Shastri Nagar A Block
+1759 Agarsen Hospital
+176 Ravinder Rang Shala
+1760 Delhi Gate / Ambedkar Stadium Terminal
+1761 Khanpur Village
+1762 Kakrola Xing
+1763 Jahangirpuri GT Road
+1764 Ashok Vihar I Block
+1765 Multi Gym
+1766 Daulat Pur Village
+1767 Delhi Gate
+1768 PS Bawana
+1769 Tilak Bridge
+177 R K Puram Nab
+1770 Balti Factory
+1772 Rohini Depot III
+1773 Marina
+1774 Shri Ram Institute
+1775 Tagore Garden Metro Station / Tatarpur
+1776 Geetanjali Enclave
+1777 Prithvi Raj Road
+1778 A-3 Janak Puri
+1779 PSRI
+178 Tikri Hospital
+1780 Swarg Ashram
+1781 Shalimar Bagh Xing
+1782 Rajouri Garden
+1783 Saket Metro Sation
+1784 SJ Airport
+1785 TilangPur Kotla
+1786 Blood Bank
+1787 Kiran Garden
+1788 Matiyala Xing
+1789 Supply Depot
+179 Rangpuri
+1790 Yamuna Vihar Brij Puri
+1791 RK Puram Sec-12
+1792 Dichau Kalan Depot
+1793 Kanjhawala Depot
+1794 Rajdhani Park
+1795 Pushpa Bhawan
+1796 Prahlad Market
+1797 Shaheed Park (Bhagat Singh Terminal)
+1798 Old Seema Puri
+18 Batla House
+180 Udyog Bhawan
+1800 NHW 8
+1801 Bank
+1802 Karol Bagh Metro Station
+1803 Vaishali  Enclave / Kapil Vihar
+1804 MIG Flates Loni Road
+1805 Palam More
+1806 Jahangirpuri E-Block
+1807 Khajuri
+1809 Karampura Terminal
+181 Vishwa Vidyalaya Metro Station
+1810 Jagjit Nagar
+1811 Azadpur Terminal
+1812 Zakir Husain College
+1813 Welcome Metro Station
+1814 Hari Nagar Ghanta Ghar
+1815 DPS / Police Station Nizamuddin(Lodhi Road)
+1816 Jonti Crossing
+1817 Satyawati College
+1818 Mori Gate Terminal
+1819 Yojana Vihar/ Yamuna Sports Complex
+182 ShivRam Park
+1820 Bhagwan Mahavir Hospital
+1821 Rohini Depot-II
+1822 East Park Road
+1823 PTS
+1824 Ashirwad Apartment
+1825 Inder Enclave
+1826 AIIMS Ring Road
+1827 Nizamuddin Road Bridge
+1828 Nawada Gaon
+1829 Kangan Heri - I
+183 Kapashera Border
+1830 Bharti Public School
+1831 Barwala School
+1832 Sunheri Masjid/G Block
+1833 Pandwala Crossing
+1834 Sec 10A Pkt-6
+1835 Madipur JJ Colony Metro Station
+1836 Shivam Plywood
+1837 Moti Nagar
+1838 Art Gallery
+1839 Kirari Lal Mandir
+184 Sant Nagar A-1
+1840 Sec-24 Rohini Main Road
+1841 Maruti
+1842 Health Centre
+1843 Shyam Vihar
+1844 Tagore Garden
+1845 Gurudwara
+1846 Vasant Kunj Sec-A ILBS
+1847 Kiran Garden
+1848 Radisson BLU Hotel
+1849 Bhogal
+185 D Block Janakpuri
+1850 Chand Nagar
+1851 Aditi College
+1852 Shalimar Bagh BJ Block
+1853 Karala Village
+1854 Kaushal Devi Netraheen Ashram
+1855 Mansarovar Park Metro Station
+1856 Lado Sarai Crossing
+1857 SFS Flat Sec-2 Power House
+1858 Maharani Bagh / Ashram
+1859 B-3 Andh Vidyalaya
+186 B-Block Yamuna Vihar
+1860 Ras Vihar
+1861 TELCO Gazipur
+1862 Metal Forging
+1863 Kasturba Gandhi Road Crossing
+1864 Jivan park
+1865 Rajeev Gandhi Cancer Hospital
+1866 Princess Park/ Airforce Noval Office Enclave
+1867 B Block Mangolpuri
+1868 Railway Colony (Sardar Patel Marg)
+1869 Rithala School
+187 APS School Dhaula Kuan
+1870 Chander Lok
+1871 Upper Ridge Road
+1872 Shakti Nagar Nangia Park
+1874 Shikar Pur Village
+1875 Karkardooma Crossing
+1876 Palika Kendra
+1877 SPM College
+1878 Chanchal Park
+1879 Rohini Sec-16 Xing
+188 DDU Hospital
+1880 St Marry School
+1881 Ranhola Village
+1882 Vikas Sadan
+1883 Safdurjung Hospital / AIIMS
+1884 Uttam Nagar Terminal
+1885 Samalkha More
+1886 Vasant Kunj Sec-A Pkt-BC
+1887 Indian Oil Station
+1888 CRPF Camp Keshopur
+189 Rani Khera Bus Stand
+1890 Naraina Vihar / Indra Market
+1891 Lady Shri Ram College
+1892 Bhai Parmanand Colony
+1894 New Rajender Nagar
+1895 Qutub Minar Metro Sation
+1896 Kali Mata Mandir
+1897 Surya Nagar
+1898 Safdurjang Enclave
+1899 Ice Factory
+19 Karala Village
+190 Rana Pratap Bagh
+1900 Nehru Vihar
+1901 Mundhela School II
+1902 Sai Baba Chowk
+1903 Keshav Nagar Mukti Ashram
+1904 Shahbad Dairy A Block
+1906 Badu sarai Village
+1907 Mayapuri Chowk (Ring Road)
+1908 Bharat Nagar Crossing
+1909 Unani Hospital / Okhla Ext Thokar 3
+191 Swaroop Nagar JJ Colony
+1910 Shahbad Gaon
+1912 Kendriya Terminal
+1913 Malikpur Crossing
+1914 Geeta Colony Road Crossing
+1915 Shiv Mandir
+1916 Kapashera More
+1917 Surehra Village
+1918 BrahmPuri Colony
+1919 Jain Shukla Mandir
+192 HaujRani / MaxHospital
+1920 Tughlaqabad Extension
+1921 Surya Niketan
+1922 Dev Nagar / Khalsa College
+1923 Subhash Park
+1924 Bank Colony
+1925 C2B Janakpuri
+1926 Jharoda Crossing / Nazafgarh Terminal
+1927 RK Puram Sec-1
+1928 St Xavier School
+1929 ITO
+193 Model Basti
+1930 Dwarka Puri
+1931 Kartar Nagar
+1932 Firoz Shah Road
+1933 JA Block Ashok Vihar
+1934 Tara Apartments Terminal
+1935 Pandav Nagar
+1936 Okhla Tank
+1937 Mukarba Chowk
+1938 Dwarka Sec 19-20 Crossing
+1939 Ishpat Bhawan
+194 More Lines
+1940 Bharthal Under Pass
+1941 BakkarWala Crossing
+1942 Gatta Factory Sonia Vihar
+1943 Lok Vihar
+1944 Christian Kabristan
+1945 Ber Sarai
+1946 Vishal Enclave
+1948 District Centre Outer Ring Road
+1949 Prem Nursery
+195 Kirari Railway Xing
+1950 Lodhi Hotel
+1951 Bhagini Nivedita College
+1952 CRPF Camp Okhla Phase 1
+1953 Lodhi Colony Market
+1954 Panchsheel Club
+1955 Kondali Old
+1956 Ambedkar Nagar Terminal
+1957 Sir Ganga Ram Hospital
+1958 Sai Apartments
+1959 Rani Jhansi Road Jhande Walan
+196 Indian AirLine Colony/Priya Cinema
+1960 Shivam Plywood
+1961 DA Block Hari Nagar
+1962 Patiala House
+1964 Radheypuri
+1965 Radha Swami Satsang
+1966 R-Block Rajendra Nagar
+1967 Mahaveer Enclave Part II  and  III
+1968 Prehladpur School
+1969 Dwarka Sec 3-4
+197 South Extension
+1970 Prahlad Market
+1971 Rajendra Lakra Public School
+1973 Mayapuri Depot
+1974 Jahangir Puri Outer Ring Road
+1975 Nauroji Nagar
+1976 M Block Sarojini Nagar
+1977 St Stephen Hospital
+1978 Prem Bari Pull
+1979 R K Puram Sec-2
+198 PitampuraMetro Stn (MadhuvanChowk)
+1980 Shastri Park Metro Depot
+1981 Shadipur Metro Station
+1982 Ganesh Nagar
+1983 Janakpuri East Metro Station/ Nangli Zalib
+1984 CPRTI/ Delhi Jal Board
+1985 Issapur Village Temple
+1986 New Sabzi Mandi
+1987 GTB Hospital Xing
+1988 Super Bazar
+1989 Guru Govind Singh Marg
+199 Ishwar Colony
+1990 Punjab Khor Village
+1991 NASC Dasghara
+1992 Krishi Bhawan
+1993 ISBT Maharana Pratap Bus Terminal
+1994 Hauj Rani
+1995 Surya Nagar
+1996 Ajmeri Gate / Kamla Market
+1997 Sarvodya School Daulat Pur
+1998 Shastri Park Pusta Road
+1999 Pitampura ND Block
+2 Azad Market
+20 Manglapuri / Palam Village
+200 SJ Hospital
+2000 Prem Piyau
+2001 C Block Mangol Puri
+2002 PWD Office / Aruna Nagar Ring Road
+2003 Prehlad Pur
+2004 Akbar Road
+2005 Bala Sahib Gurudwara
+2006 IP Depot Metro Station
+2007 Mitraon Village (Kair Village Road)
+2008 Palam Airport Bypass
+2009 Eastern Court
+201 TV Tower (Power House)
+2010 Dilshad Garden Depot Cluster
+2011 Meera Bagh
+2012 Titiksha Public School
+2013 Rampuri Gali No 13
+2014 Siri Fort Road
+2015 Sagarpur Vashisht Park
+2016 Raghubir Nagar F Block
+2017 Humayun Road
+2018 St. Lawrence School
+2019 Aman Puri
+202 Shiv Mandir
+2020 DDA Kalkaji Extension
+2021 Amrohi More
+2022 Agar Nagar
+2023 Radisson Hotel / Mahipal Pur Crossing
+2024 Badarpur M B Road
+2025 Khayala Colony Terminal
+2026 Mahindra Park Road No-44
+2027 Talkatora Stadium
+2028 MRV School Sec 13 Dwarka
+2029 Begumpur
+203 Shastri Nagar E Block
+2030 Acharya Narendra Dev College Govindpuri
+2031 Shahjahan Road UPSC
+2032 Gulabi Bagh
+2034 Mayapuri Depot
+2035 Police Station Timarpur
+2036 Onida Factory
+2037 Police Station Vikaspuri
+2038 Barwala Village
+2039 Dr. RML Hospital
+204 DIPSAR College of Pharmacy
+2040 Seelam Pur Metro Mall
+2041 Karala School
+2042 Shikar Pur Crossing
+2043 Holy Family Hospital
+2044 Shakti Nagar
+2045 ISTM
+2046 National Highway 24 Crossing
+2047 Red Cross Road
+2048 Laxmi Nagar
+2049 Krishna Marg Kardam Puri
+205 Tilak Nagar
+2050 NHAI Building/ Dwarka Sec-10 Metro Station
+2051 Raksha Vigyan Kendra / Metcalf House
+2052 Madanpur Khadar Crossing
+2053 S.Sr. Kanya Vidhyalaya
+2054 Issapur School
+2055 Chhawani Hospital
+2056 Statesman House
+2057 Lado Sarai (Crossing)
+2058 Mayur Vihar Ph-III
+2059 Samalka Village
+206 Gagan Vihar
+2060 Sheikh Sarai Ph-II
+2061 BE Block Hari Nagar/ESI Dispensary
+2062 Gandhi Vihar
+2063 Shahbad Dairy
+2065 Gopal Pur Crossing / Jagatpur Crossing
+2066 Pochan Pur Village
+2067 Azad Market
+2068 ISBT Bridge
+2069 Sir Chhotu Ram Polytechnic
+207 Gole Market
+2070 Janak Cinema
+2071 Rohini Depot 1 Sec 6 (Ambedkar Hospital)
+2072 Mundhela Kalan Village
+2073 GTB Nagar
+2074 Nathu Colony
+2075 Gazi Pur Dairy Farm
+2076 Nanak Heri Village
+2077 Badli Railway Staion
+2078 Palam Airport Bypass
+2079 Madhuban Chowk
+208 Ranhola II
+2080 Rajdoot Hotel
+2081 B R Ambedkar College (Loni Road Xing)
+2083 R K Puram Nab
+2084 Azad Pur Terminal
+2085 Sec-24 Rohini Main Road
+2086 Vriddha Ashram
+2087 Inderpuri Krishi Kunj
+2088 Vasant Kunj Sec-D/3-4
+2089 Zafrabad School
+209 Chandan Market Greater Kailash- II
+2090 Samaypur School
+2091 Bharat Nagar Crossing/Sri Nagar Colony
+2092 Ravindra Nagar
+2093 Shiv Shankar Dharam Kanta
+2094 IIT Gate
+2095 Hari Nagar Ghanta Ghar
+2096 Mukarba Chowk
+2097 KrishiBhawan/RailBhawanMetroStation
+2098 Daya Basti Flyover
+2099 Aman Puri
+21 Delhi Gate (JLN Marg)
+210 Christian Kabristan
+2100 R K Puram Sec-3
+2101 Shahdara Terminal
+2102 Rishal Vihar
+2104 Old Secretariat (Postal Account Office)
+2105 Ram Pura
+2106 PS Vivek Vihar
+2107 Bodhik Sampda Bhawan
+2108 Defence Colony (Lajpat Nagar Mtr Stn)
+2109 Dhakka Village
+211 Seemapuri Old
+2110 C6 B Janakpuri
+2111 Engg College Shahbad
+2112 Sabhapur More
+2113 Dhaula Kuan
+2114 Gupta Market
+2115 Andheria Bagh More
+2116 Madanpur Dabas
+2117 Himalaya Apartment
+2118 Hans Apartment
+2119 Begumpur
+212 New Multan Nagar
+2120 DLF More
+2121 Sanjay Gandhi Transport Nagar
+2122 Campa Cola
+2123 Dhaula Kuan
+2124 Desu Sub Station
+2125 Shalimar Bagh BH Block
+2126 Kalyan Vihar Terminal
+2127 Nirmal Hospital
+2128 Tatesar Village
+2129 Sheikh Sarai Phase 2
+213 Swarn Park
+2130 Vikas Puri Crossing
+2131 Bihari Pur Gaon
+2132 Prashant Vihar F-Block
+2133 Pushpa Bhawan
+2134 DB College
+2135 Chanakya Bhawan
+2136 Kanya Sarvodya School Shikar Pur
+2137 Burari Crossing
+2138 Aradhana Enclave
+2139 Goodwill Apartments
+214 Dichau Kalan Depot
+2140 Baprola School
+2141 RK Puram Sec-12(Sangam Cinema)
+2142 Police Station Roop Nagar / Banglow Road
+2143 Dholi Piao
+2144 Indira Gandhi Stadium
+2145 Kapil Vihar
+2146 Guru Govind Singh Crossing (Faiz Road)
+2147 Budh Vihar
+2148 Pusta Crossing / Akhardham Temple
+2149 Yamuna Bazar / GGS Universicy
+215 Gazipur Village
+2150 Marina
+2151 N.P.L Colony
+2152 Kotla Village
+2154 Prem Nagar
+2155 Kalkaji B-Block
+2156 Kouria Bridge
+2157 Rainy Well
+2158 PS Vivek Vihar
+2159 ISBT Bridge
+216 Shaheen Bagh Thokar No. 8 (AF Enclave)
+2160 Telephone Exchange
+2161 Claridges Hotel
+2162 Ramleela Ground Geeta Colony
+2163 Laxmi Vihar
+2164 Shastri Bazar
+2165 Ber Sarai
+2166 SDM Court Kanjhawala
+2167 Sarita Vihar
+2168 Jheel Terminal
+2169 Ibrahim Pur More
+217 Fire Station Tikri Village
+2170 Shri Golok Dham Bijwasan School
+2171 Janak Setu
+2172 Dariyapur Kalan School
+2173 Gurudwara Nanak Sar
+2174 Naraina Vihar
+2175 Mangol Puri B Block
+2176 Rohini Sec 11 Agarwal Sabha
+2177 Telephone Exchange
+2178 Gandhi Darshan
+2179 Vasant Vihar Depot
+218 Garhi Maidu
+2180 Baroda House
+2181 Raghubir Nagar Gurudwara A Block
+2182 Central Workshop II
+2183 Dilshad Garden GT Road
+2184 Chhath Park Mangol Puri
+2185 Naraina Vihar / Indra Market
+2186 Aurobindo College
+2187 Shreshtha Vihar
+2188 Radha Swami Satsang
+2189 Banarsi Daas Estate Timarpur
+219 Power House
+2190 Jamia Hamdard Library
+2191 Hardev Puri
+2193 Max Mueller Marg
+2194 Ujwa School
+2195 Bawana Dispensary
+2196 Mahindra Park
+2197 INS Hostel
+2198 Maharani Bagh (Ashram)
+2199 Kanjhawala Depot (Narela Road)
+22 Udyog Nagar
+220 East Azad Nagar
+2200 Rohini Sec-3/4 Xing
+2201 Jamia Hamdard Library
+2202 Kaushik Enclave
+2203 Faiz Road
+2204 Mahesh Apartments
+2205 ESI Hospital
+2206 Mori Gate Terminal
+2207 CRPF Jharoda 1
+2208 Ramjas College
+2209 Vivek Vihar Ram Mandir
+221 Bharti Nagar
+2210 SJ Airport
+2212 P.Vihar Power Houe
+2213 Bhairon Mandir Pragati Maidan
+2214 Mahindra Park
+2215 Mandi House
+2217 Samalkha Village
+2218 Nangloi Post Office
+2219 Gandhi Darshan
+222 Pusa Road Petrol Pump Sadhu Vaswani Marg
+2220 Roshnara Road
+2221 East Patel Nagar
+2222 Ashram (Hari Nagar)
+2223 IOC Dwarka Road
+2224 Munim Ji Ka Bagh
+2225 Ganesh Nagar Check Post
+2226 Nangloi Post Office
+2227 Anubhav Apartment
+2228 Mangolpuri S Block
+2229 Jharoda Nala Crossing
+223 Nangli Dairy
+2230 Shalimar Bagh Desu Colony
+2231 Gole Market
+2232 Kalka Ji Crossing
+2233 GTB Hospital Crossing
+2234 Arjun Path / Subroto Park
+2235 Nanak Piyau
+2236 Panchkuian Road Banwari Lal Hospital
+2238 Kalyanpuri Crossing
+2239 Batla House (Temporary)
+224 Arjun Park
+2241 A-1 Keshav Puram
+2242 ISBT Kashmere Gate Terminal
+2243 Barakhamba Metro Station
+2245 Karol Bagh Terminal
+2246 Rama Krishna Ashram Marg
+2247 JandK Pocket Dilshad Garden
+2248 Lodhi Garden / Mousam Bhawan
+2249 Gagan Cinema (Wazirabad Road)
+225 Alaknanda Apartments
+2250 Arjun Path
+2251 Jharkhandi
+2252 Tolstoy Marg
+2253 Hi-Land Apartments
+2254 Karkardooma Xing
+2255 Inderlok
+2256 Jahangirpuri A-Block
+2257 Nizamuddin Road Bridge
+2258 Narmada Apartments
+226 HaujRani / MaxHospital
+2260 Chhoturam Park Rohini Sec 5
+2261 Seelampur Market
+2262 Mukarba Chowk
+2263 NSIC
+2264 Ramesh Park
+2265 Central School (KV)
+2266 Golf Club
+2267 Rasulpur Village
+2268 Choudhary Mohalla
+2269 Basai Darapur / Ramesh Nagar
+227 Sukhbeer Nagar
+2270 Hari Nagar Clock Tower
+2271 The Uppal Hotel
+2272 New Usmanpur pusta no-1
+2273 Kapil Vihar
+2274 Chhawla Stand Najafgarh
+2275 Meenakshi Garden
+2276 Raj Nagar
+2277 Vasant Kunj Sec-C-8
+2278 Manohar Nagar
+2279 J L Nehru Stadium
+228 CV Raman ITI
+2280 Wazirpur Depot / Subhash Place Depot
+2281 Kakrola Bridge
+2282 Jaffarpur RTRM Hospital
+2283 SDM Court Kanjhawala
+2284 Andrews Ganj
+2285 New Friends Colony
+2286 Khera Village
+2287 IIT Hostel
+2288 Punjab Kesari
+2289 Dhool Siras
+229 Rohini Depot II
+2290 Kasturba Gandhi Xing
+2291 Kushak Nallah Depot
+2292 Palika Kutumb
+2293 Old Delhi Railway Station
+2295 Dewta Wala mandir
+2296 Pusta No 3 Sonia Vihar
+2297 Burari Transport Authourity
+2298 Ishpat Bhawan
+2299 Thana Sabji Mandi / Ice Factory
+23 Ashok Vihar Water Tank
+230 Rajdhani College / Raja Garden
+2300 Keshopur Depot
+2301 Puspanjali G Block
+2302 Lal Kuan
+2303 Karampura Terminal
+2304 Sikkim House
+2305 National Museum
+2306 Kaushal Devi Netraheen Ashram
+2307 Mother Dairy
+2308 Chandan Market Greater Kailash- II
+2309 Wazirpur Depot Ring Road
+231 RK Puram Sec-1
+2310 Dwarka Sec-23 Crossing
+2311 C4 Yamuna Vihar Crossing
+2312 Delhi Jal Board Lajpat Nagar
+2313 Taj Pur Village
+2314 Vikaspuri J-Block
+2315 Chand Cinema
+2316 Kirti Nagar
+2317 Apollo Hospital
+2318 C-8 Keshav Puram
+2319 18-Block Lodhi Colony
+232 Shivaji Stadium Terminal
+2320 OS Communications
+2321 Power House NajafGarh
+2322 Jharoda Kalan
+2323 Sanjay Lake Trilokpuri
+2324 Batra Hospital (Satya Narayan Mandir)
+2325 Shanti Vana
+2326 Tagore Garden Metro Station / Tatarpur
+2327 Rangpuri
+2328 Tehkhand Depot DTC
+2329 Nirankari Sarover- Burari Xing
+233 Maharana Pratap Chowk
+2330 Rohini Sec 16 (Maharaja Aggrsen Dharamsthal)
+2331 Peera Garhi Chowk
+2332 Divya Dham Ashram
+2333 Matiyala Xing
+2334 Chhawla School
+2335 NSIT (Netaji Subhas Institute)
+2336 Goyla Dairy
+2337 IA Block Ashok Vihar
+2338 Okhla Ph-I
+2339 Jhilmil Xing
+234 Deenpur Village
+2340 Gagan Vihar
+2341 Subhash Nagar Crossing / Mukherji Park
+2342 Old Delhi Railway Station
+2343 Kamal Cinema
+2344 Anand Gram Ashram
+2345 Jwala Puri / Nangloi Depot
+2346 Central School (Andews Ganj)
+2347 ITO Ring Road
+2348 Ras Vihar Apartment (PS Madhu Vihar)
+2349 Pragati Maidan Metro Station
+235 Punjab Kesari (Subhash Palace Depot)
+2350 Gazipur Village
+2351 Anand Vihar ISBT
+2352 Tilak Bridge
+2353 Sarai Rohila
+2354 West Patel Nagar
+2355 Khureji Khas
+2356 Post Office
+2357 BDO Office Roshan Pura
+2358 Delhi Police Training School
+2359 Sarai Pipal Thala
+236 Gole Market
+2360 Rewla Taj Pur More
+2362 Baroda House
+2363 Ishwar Nagar
+2364 Bobby Shop
+2365 Lal Bahadur Shashtri Hospital
+2366 National Stadium
+2367 Khel Gaon CWG Village
+2368 Tagore Garden
+237 Vidya Marg Apartments
+2370 Base Hospital
+2371 PS Chankya Puri
+2372 Oxford School
+2373 Telephone Exchange
+2374 Kanhaiya Nagar
+2375 Pitampura RU-Block
+2376 Chhawla School
+2378 Maya Enclave
+2379 Sanjay Lake Trilokpuri
+238 Ali Village
+2380 Malik Pur Village
+2381 Nangloi Metro Station
+2382 Gurudwara Rakab Ganj
+2383 Sector 17/18 More Dwarka
+2384 Vinay Marg
+2385 Shakur Basti
+2386 Tikri Village
+2387 Lajwanti Garden (Nangal Rai)
+2388 Paschim Vihar Super Bazar (West Metro Station)
+2389 Valmiki Hospital
+239 Qamruddin Nagar Terminal
+2390 Minto Road Terminal
+2391 Masood Pur Dairy
+2392 DCM Chemical
+2393 Khirki Village
+2394 Daka Village
+2395 Swaroop Nagar JJ Colony
+2396 B-Block Yamuna Vihar
+2397 Jharoda Dairy Crossing
+2398 CPRTI
+2399 Gurudwara Vikaspuri
+24 Centaur Hotel / New Custom House
+240 Janak Setu
+2400 Khajuri School
+2401 GPO
+2402 GTB Hospital Xing
+2403 Avantika Xing
+2404 Govindpuri Extn. Gali No. -16
+2405 Rajouri Garden Market
+2406 Purani Basti Rewla Tajpur
+2407 BBM Cluster Depot
+2408 Dwarka More
+2409 Jhul-Jhuli Crossing
+241 Avantika Crossing
+2410 J M International School
+2411 Malviya Nagar
+2412 Ranhola Village
+2413 Lalita Park
+2414 GTB Nagar
+2415 Ramjas College
+2416 Liberty Cinema
+2417 Swarn Park
+2418 Fire Station Tikri Village
+2419 Lado Sarai Dhaula Peer
+242 Modern School  Vasant Vihar F Block
+2420 J L Nehru Stadium
+2421 C-Block East of Kailash
+2422 Taimur Nagar
+2423 Shivaji Park
+2424 Vasant Vihar F Block Poorvi Marg
+2426 Dwarka Sec-6/7
+2427 Pushpa Bhawan
+2428 Gupta Market
+2429 YMCA Jai Singh Road
+243 TilangPur Kotla
+2430 KarKarDooma Court
+2431 Mitraon Village
+2432 NCERT
+2433 Naraina Depot
+2434 Nangli Sakrawati
+2435 Nazafgarh Terminal
+2436 C-4 Keshav Puram
+2438 Narela Terminal
+244 Krishna Colony
+2440 Nimri Colony
+2441 Kanti Nagar Extension
+2442 Sri Nagesh Garden
+2443 VaishaliEnclave / Kapil Vihar
+2444 Shakurpur JJColony
+2445 Air Force Station
+2446 Rohini Sec 22 Terminal
+2447 Kapil Vihar
+2448 Paharganj Police Station
+2449 Jai Vihar
+245 Balaji Enclave
+2450 E-2 Vasant Kunj
+2451 Mithla Apartment Chandar Vihar
+2452 Rohini Sec 16 Crossing
+2453 Janakpuri C-1
+2454 Saraswati Vihar C Block
+2455 Ali Village
+2457 J M International School
+2458 Delhi Public School
+2459 Mangla Puri Terminal
+246 Delhi University
+2460 Baba Haridass Nagar
+2461 Taj Pur More
+2463 Krishan Menon Marg
+2464 Sant Nagar
+2465 Keshav Nagar Darshan Dham
+2466 Desu Office
+2467 Pittampura AP-Block
+2468 Mukharji Nagar Xing
+2469 Nangloi Post Office
+247 Mangolpur Kalan Village
+2470 Rashid Market
+2471 Loha Mandi
+2472 Pusta No 2 Sonia Vihar
+2473 Jharoda Dairy Xing
+2474 Clock Tower
+2475 C-2 Janakpuri
+2476 S.K.V.Dhansa
+2477 Pandwala Crossing
+2478 Bawana Dispensary
+2479 Rawta Village
+248 Mangolpuri School
+2480 Surehra Crossing
+2481 Qutub Minar
+2482 Ambedkar Nagar Terminal
+2483 Khera More / Ghuman Hera Crossing
+2484 Green Park/Metro Station
+2485 Sai Baba Mandir (Nazafgarh)
+2486 Sunder Apartment
+2487 C4E Janakpuri
+2488 Kakrola More
+2489 Prehladpur Village
+249 Sheikh Sarai More
+2490 Sujan Singh Park
+2491 DIPSAR College of Pharmacy
+2492 Janakpuri C-1
+2493 Mahipal Pur Crossing
+2494 Hasanpur Village
+2495 Uday Park
+2496 GTK Bypass
+2497 Punjabi Bagh Terminal
+2498 Kalkaji Xing
+2499 Police Station Timarpur
+25 Bhagwan Mahavir Hospital
+250 C P J College
+2500 Defence Colony
+2501 ITI Khichiripur
+2502 Wood Market
+2503 Divya Dham Ashram
+2504 Max Mueller Bhawan
+2505 DLF More
+2506 Radha Swami Satsang Sec-23 Dwarka
+2507 Nazafgarh Dhansa More
+2508 New Anaj Mandi Xing
+2509 Rohini Sec-24
+251 Dwarka Sec 13-3 Xing
+2510 Dichau Village
+2511 Lok Vihar
+2512 South Enclave
+2513 Metcalfe House
+2514 Hanuman Mandir
+2515 BrahmPuri Colony
+2516 Cargo / Express Terminal Gate
+2517 Jaitpur Mor
+2519 S O Flats Carriappa Marg/Carriappa Vihar
+252 Nangloi Metro Station
+2520 M Block Greater Kailash- II
+2521 Rajapuri
+2522 Bali Nagar
+2523 Rana Pratap Bagh
+2524 Zakir Husain College
+2525 Khel Gaon
+2526 Red Fort
+2527 Ashok Nagar
+2528 C-2 Keshav Puram
+2529 Shastri Nagar Shiv Mandir
+253 Shri Krishna Gaushala
+2530 Deenpur Village
+2531 Shaheen Bagh Thokar No. 7
+2532 Avtar Enclave
+2533 Jag Jivan Ram Hospital
+2534 Haider Pur Water Works
+2535 Mubarakpur Dabas
+2536 Jain Bekhunth Mandir
+2537 Pusta No-2
+2538 Shaheed Bhagat Singh Colony Karawal Nagar
+2539 Bamnoli Crossing
+254 Meenakshi Garden
+2540 Hansraj College / Malka Ganj
+2541 Radhu Palace
+2542 Telephone Exchange Karol Bagh
+2543 Dwarka More Metro Station (Sewak Park)
+2544 Africa Avenue
+2545 FCI Ghevra
+2546 Crown Plaza
+2547 Baprola Vidhyalaya
+2548 Sujan Singh Park
+2549 Punjabi Bagh Terminal (Rohtak Road)
+255 Swarg Ashram
+2551 Mayur Vihar Phase II
+2552 Ekta Garden- Harijan Basti
+2554 Chitra Gupta Road
+2555 Race Course
+2556 ITPO Gate No. 3
+2557 Modern School
+2558 Sunder Nagri
+2559 Natthupura Crossing Terminal
+256 Rithala Village
+2560 Dwarka Sec-21 Metro Station
+2561 Govind Puri Metro Station
+2562 Outer Ring Road Makbara Chowk
+2563 Nangloi JJ Colony Lokesh Cinema
+2564 Tikri Piyau / Azad Hind Gram
+2565 Swaroop Nagar GT Road
+2566 Gurudwara NanakSar
+2567 Rama Vihar
+2568 Ganesh Nagar
+2569 West Enclave Terminal
+257 Garhi Gaon
+2570 Okhla Extension (Abul Fazl Encalve)
+2571 Okhla Industrial Area
+2572 DDA Flats Kalkaji
+2573 Raj Ghat
+2574 Begumpur
+2575 Rohini sec -16 X-Ing (Maharaja Aggarsen Dharam Sthal)
+2577 Azad Market
+2578 Kewal Park
+2579 Prithviraj Road/P.S.Tughlaq road
+258 CRPF Camp
+2580 Paschim Vihar Super Bazar (West Metro Station)
+2581 R Block Rajinder Nagar
+2582 Tihar Jail
+2583 Durga Vihar
+2584 Avantika Xing
+2585 Ludlow Castle
+2586 Ashok Vihar B Block
+2587 Shalimar Garden More
+2588 Gulab House
+2589 RK Puram Sec-12
+259 Nehru Place
+2590 Rawta Village
+2591 Suraj Vihar
+2592 Laxmi Narayan Temple
+2593 Sonia Vihar
+2594 Sarvodhya Vidhyalay Burari
+2595 Andheria More (Chhatarpur Metro Station)
+2596 JLN Stadium (Sunehripulla Depot)
+2597 Lajpat Nagar Crossing
+2598 Palika Kutumb
+26 Badarpur Village
+260 Thimiyan Park
+2600 Jharoda Border
+2601 Darya Ganj
+2602 Shalimar Bagh Xing
+2603 Press Enclave
+2604 Moti Nagar Industrial Area
+2605 Tees Hazari Court
+2606 Delhi Public School
+2608 KarKarDooma Court
+261 Shalimar Garden Crossing
+2611 Tikri Kalan Village
+2612 Mitraon Extension
+2613 Kirbi Place
+2614 Sanskrit Vidyapeeth
+2615 Babarpur Extension
+2616 Mangol Pur Khurd
+2617 Shiv vihar/Bheem chowk
+2618 Nehru Place Terminal
+262 Dichau Chowk
+2620 Saket A block(Malviya Nagar Metro Station)
+2621 ESI Hospital
+2622 Chirag Delhi
+2623 Kaya Maya Hospital
+2624 Mundhela Khurd School
+2625 PTS Jharoda Kalan
+2626 MTNL Saraswati Vihar
+2627 Rohini Sec-21
+2628 Central Work Shop II
+2629 Dwarka Sec 16C/GGS IP University
+263 Meghdoot Bhawan
+2630 PS Tuglak Road
+2631 BSF Camp Chhawla
+2632 St Thomas School Goyla Vihar
+2633 North Point (Nursing Home)
+2634 Palam Colony Flyover
+2635 Bali Nagar
+2636 R Block Rajinder Nagar
+2637 Bharat Nagar
+2638 Humayun Road
+2639 Sewa Kutir
+264 Yojana Vihar
+2640 Prasant Vihar
+2641 Prembari Pul
+2642 Jivan park
+2643 Dhansa Border
+2644 Civil Line Metro Station
+2645 PG DAV College / Sri Niwaspuri
+2646 PWD Office
+2647 Rani Khera
+2648 Patel Chowk
+2649 Sarai Rohilla
+265 Pittam Pura R U-Block
+2650 Janak Puri B-1 Terminal
+2651 Balco Apartment
+2652 Naraina Depot
+2653 Gulab House
+2654 Nirmal Vihar
+2655 Talkatora Road
+2656 Pal Colony
+2657 Maidan Garhi Crossing (SDM Court)
+2658 Shadhara Bordar Road No 62
+2659 CRPF Camp
+266 Tagore Garden D Block
+2660 Vasant Kunj Sec-C-8
+2661 Rajeev Ratan Aawas/Baprola Phase 1
+2662 Savitri Cinema (E Block Gurudwara)
+2663 RR Hospital
+2664 Sarai Peepal Thala
+2665 &quot;Rohini Sec-7
+2666 Krishna Colony
+2667 Don Bosco School
+2668 Rajghat Cluster Depot
+2669 Panchsheel Club / Sarvpriya Vihar
+267 RK Puram Sec-12
+2670 Punjabi Bagh Terminal
+2671 Sunder Nagar
+2672 B-5 Rohini Som Bazar
+2673 Dichau Kalan School
+2674 Kirbi Place
+2675 Alpana Cinema (Model Town Mtr Stn)
+2676 Aakashwani Bhawan
+2678 Patel Chest
+2679 R R Line
+268 Prince Apartment
+2681 DDA Booster Pump Station
+2682 Shiv Vihar Bheem Chowk
+2683 JagatpuriF-Block
+2684 DTC Apartments
+2685 Sultanpuri Terminal
+2686 Gazipur NH-24 Crossing
+2687 Koushik Enclave
+2688 NSIC
+2689 MRV School Sec 13 Dwarka
+269 Pusta No 5 Sonia Vihar
+2690 Madarsa / Welcome Seelam Pur
+2691 Prem Piyau
+2692 OS Communication / Masjid Moth
+2693 Sarvodya Kanya Vidhyalaya / PVC Market
+2694 Andrews Ganj Shiv Mandir / Ansal Plaza
+2695 Karala Pathsala Jain Mandir
+2696 Bawana School
+2697 Badli Telephone Exchange
+2698 Gurudwara Nanak Pyau
+2699 Indra Service Station
+27 Mayur Vihar Phase 3 Crossing
+270 Burari Village
+2700 Pandwala Crossing
+2701 Old Delhi Railway Station (Fatehpuri)
+2702 Munirka Family Planning
+2703 Prehladpur Crossing
+2706 Khanpur Extension / Devli Xing
+2707 R K Puram Sec 8 / 9
+2708 Ghevra Crossing Rohtak Road
+2709 Zakhira
+271 Holy Family Hospital
+2710 NPL Colony
+2711 Nilothi Crossing
+2712 Shahbad School
+2714 C-Lal Chowk
+2715 Jyoti Colony Durga Puri
+2716 Punjabi Bagh Terminal
+2717 DesuOffice(NDPL)
+2719 Mayur Vihar Phase III Terminal / Paper Market
+272 Laxmi Narayan Temple
+2720 Vasant Vihar
+2722 CGO Complex
+2723 Azadpur
+2724 Maya Enclave BSES Office
+2725 Karol Bagh Gurgaon Stand
+2726 Shanti Niketan / RK Puram Sec 8
+2727 National Muesum
+2728 Meera Bagh Apartment
+2729 Ashoka Hotel
+273 Jhuljhuli Crossing
+2730 Kaya Maya Hospital
+2731 Faiz Road
+2732 ITO
+2733 Ranhola Extension
+2734 East Patel Nagar
+2735 Garhi Maidu
+2736 Vishwa Vidyalaya Metro Station
+2737 Patparganj Xing
+2738 Bank Colony
+2739 Sarai Rohilla Govt Qtrs
+274 Novelty Cinema
+2740 Tilang Pur Kotla
+2741 Shivaji Stadium Terminal
+2742 Kair Village
+2743 More Lines
+2744 Anubhav Apartments
+2745 Alaknanda Apartment
+2746 Shalimar Bagh A Block
+2747 GPO
+2749 Dwarka Flyover
+275 Dharma Apartment
+2750 D-Block Janakpuri
+2751 Rohini Sec 11 Pkt A (Swarn Jayanti Park)
+2752 Raghu Nagar (Janak Puri)
+2753 Ghevra Village
+2754 Gurudwara Bangla Sahib
+2755 School Of Physical Science
+2757 Anand Gram
+2758 C4E Janakpuri
+2759 AIR Force Camp
+276 Vivek Vihar Terminal
+2760 Pushp Vihar
+2761 Poothkhurd Village
+2762 Chhawla Village Kangan Heri Road
+2763 Sri Krishan Apartments
+2764 New Anaj Mandi
+2765 Sadar Bazar
+2766 Budhela Village
+2767 Radio Colony
+2768 Subhadra Colony
+2769 Zakhira Flyover
+277 Nazafgarh Dhansa More
+2770 RK Puram Sec-13
+2771 DDA Flats Lucknow Road
+2772 Panchsheel Enclave
+2773 Batla House
+2774 Shaheen Bagh Thokar No 6
+2775 Osho Dhyan Mandir Jhatikra Road
+2776 Ashok Vihar Water Tank
+2777 T.B. Hospital
+2778 Vasant Village
+2779 Vriddha Ashram
+278 Kakrola More
+2780 Azadpur Terminal
+2781 Janakpuri East Metro Station/ Nangli Zalib
+2782 Samrat Enclave
+2783 St Marry School
+2784 Scindia House / Kailash Bhawan
+2785 Desu Colony
+2786 Dichau Chowk
+2787 Gur Mandi
+2788 Pitam Pura KD Block
+2789 St. Martin School
+279 GTK Depot
+2790 Mubarakpur School
+2791 Jhilmil Crossing / Dilshad Garden GT Road
+2792 Madanpur Dabas
+2794 Jaitpur Crossing
+2795 Harish Chandra Hospital
+2796 Anand Parvat Terminal
+2797 West Patel Nagar
+2798 Blood Bank
+2799 Lodhi Estate Xing
+28 Ranhola Extension
+280 Hasanpur Depot
+2800 Primary School
+2801 Tara Apartment
+2802 Saket Crossing
+2803 DDA Flats Kalkaji Market
+2804 Kirari Nahar
+2805 Jaffarpur RTRM Hospital
+2806 Panchkuian Road Banwai Lal Hospital
+2807 Social works school
+2808 Bamnoli More
+2809 Patel Chest
+281 Loha Mandi
+2810 Siras Pur Chhattri
+2811 Gole Market (Sahitya Sadan)
+2812 Sir Ganga Ram Hospital
+2813 Rajdhani Enclave / Mahindra Park
+2814 Jagriti Enclave
+2815 Chaukhandi
+2816 Keshav Mahavidhyalaya
+2818 Azadpur Metro station
+2819 Swaran Cinema
+282 Teen Murti
+2820 Sewa Nagar Flyover
+2821 DDA Flats KalkaJi
+2822 Pandit Park Geeta Colony
+2823 Power House
+2824 Saraswati  Vihar C Block
+2825 Mubarakpur Dabas
+2826 Bake Vihar
+2827 Nizamuddin Railway Station
+2828 Tagore Garden
+2829 Vijaya Laxmi Apartment
+283 M Block Vikaspuri
+2830 Government Press
+2832 Shyam Giri Mandir
+2833 Munirka Village
+2834 Ali Village
+2835 GTB Nagar / Haqiqat Nagar
+2836 Satya Niketan Dhaula Kuan
+2837 Tilak Nagar
+2838 Jia Sarai
+2839 RK Puram Sec 1-4
+284 Ambedkar Nagar Terminal
+2840 Shri Krishna Apartments
+2841 Kalma Nehru College
+2842 Supreme Court
+2844 Ram Prastha Crossing
+2845 Dwarka Sec 21 Crossing Bharthal Chowk
+2846 Sec A-9 Narela
+2847 Krishna Vihar
+2848 Rishal Garden
+2849 Punjab Khor Village
+285 Delite Cinema
+2850 Bharti Public School
+2851 BE Block Hari Nagar/ESI Dispensary
+2852 Rithala Crossing (Rohini Sec 6 Crossing)
+2853 Vasant Kunj Sec-D/3-4
+2854 Prehlad Vihar (Deep Vihar)
+2855 Moti Nagar Market
+2856 Uttri Pitam Pura
+2857 Railway Museum
+2858 Dichau Kalan Depot
+2859 Tilak Nagar Xing
+286 Ishwar Nagar
+2860 CPWD Colony Vasant Vihar
+2861 PS Mandir Marg
+2862 E Block Mangol Puri
+2863 PS Parliament / Jantar Mantar
+2864 Babar Pur Ext
+2865 Netaji Subhash Palace
+2866 Rohini Sec 23 Pkt 1 (Green Hill Aptt.)
+2867 Bakkar Garh Xing
+2868 Hasanpur Village
+2869 Social Works School
+287 Kirari Lal Mandir
+2870 Check Post
+2871 PS Kirti Nagar
+2872 Pragati Power Station
+2873 Shalimar Bagh BA Block
+2874 IP Power House / ITO Ring Road
+2875 Nanak Heri School
+2876 Jheel Terminal
+2877 Bawana
+2878 Radio Colony
+2879 Pitampura RU-Block Power House
+288 Shivani Apartments/ Kunj Vihar Sector-12 Dwarka
+2880 Maya Puri Crossing Ring Road
+2881 Rohini Depot-II
+2882 Chowki No 2 / Gulabi Bagh Crossing
+2883 Hassanpur Depot
+2885 Daya Basti Flyover
+2886 Pusta No-2
+2887 Shastri Park
+2888 New Rajdhani Enclave
+2889 Rajendra Lakra Public School
+289 Babarpur Extension
+2890 Khanpur Extension / Devli Xing
+2891 RK Khanna Tennis Stadium
+2893 D Block Surajmal Vihar
+2894 Khera More / Ghuman Hera Crossing
+2895 Air Force Station
+2896 Daulat Pur Crossing
+2897 Barar Square
+2898 Pochhan Pur Village Crossing
+2899 Exchange Store/Civil line metro Station
+29 COD Ring Road
+290 Tughalqabad Village
+2900 Hauz Khas
+2901 Dwarka Sec-6 Telephone Exchange
+2902 Hanuman Mandir
+2903 J Block Vikas Puri
+2904 Krishna Vihar
+2905 East of Kailash B-Block
+2906 Ordinance Depot
+2907 Vivekanand Mahila College
+2908 C6 B Janakpuri
+2909 Mangol Puri Y Block
+291 Govind Puri Metro Station
+2910 Kirbi Place
+2911 Haryana Shakti School Kanjhawala
+2912 Indian Oil Station
+2913 Malviya Nagar
+2914 Pushp Vihar
+2915 Kalkaji Extension Pocket A-13
+2916 C 4 Yamuna Vihar
+2917 Satya Niketan
+2918 Dwarka Sec 23 / Pochan Pur Village
+2919 Harewali Gaon
+292 Bhavishya Nidhi Enclave
+2920 Shyam Giri Mandir
+2921 Hyatt Hotel (GAIL)
+2922 Gurudwara Rakab Ganj Road
+2923 Sultanpuri Crossing
+2924 Kendriya Terminal (Pt. Pant Marg)
+2925 Taimur Nagar
+2926 Anubhav Apartment
+2927 Panchkuian Road
+2928 B-Block Mangolpuri
+2929 C-3 Janakpuri
+293 PS Najafgarh
+2930 B-Block Mangolpuri
+2931 Khajuri Circle
+2932 Mother Dairy Crossing
+2933 Janakpuri C-5A
+2934 Govt Model School / Ambedkar Park
+2935 Katwaria Sarai
+2937 Jhatikra Village
+2938 Jonti Crossing
+2939 Wazirpur JJ Colony
+294 Dabri Crossing (Pankha Road)
+2940 Nehru Place Crossing/Paras Cinema
+2941 Shadipur DTC Colony Metro Station
+2942 Ambedkar Nagar Depot
+2943 Dsidc Bawana
+2944 Jhankar Crossing
+2945 INS Hostel
+2946 Moti bagh Gurudwara Nanakpura
+2947 Keshav Kunj / Pochan Pur Crossing
+2948 Mohammadpur Village
+2949 Fire Station Sec-8
+295 Patiala House
+2950 Moti Bagh 1
+2951 Dholi Piao
+2952 Sarvodhya Vidhyalay Burari
+2953 Rohini Sec-9
+2954 Pragati Maidan Gate No. 5
+2955 Hari Nagar Depot
+2956 St. Martin School
+2957 Desu Office (NDPL)
+2958 Tibiya College
+2959 Janakpuri D Block
+296 Wazirabad Crossing GT Road
+2960 Kendriya Terminal / Gurudwara Rakab Gunj
+2961 Kailash Colony
+2962 Pusa Quarters
+2963 Satyam Enclave / Jhilmil DDA Flats
+2964 Rajender Nagar
+2965 Bhagini Nivedita College
+2966 L Block Gurudwara Kalkaji
+2968 Kalkaji Depot
+2969 Kendriya Vidhyalaya
+297 Dwarka Sec-23B Crossing
+2970 Raja Garden Terminal
+2971 Himalaya Apartment
+2972 S O Flats Carriappa Marg
+2973 Barar Square
+2975 Nanak Piyau
+2976 Pandwala Village
+2977 Vikaspuri Crossing (Shivaji Marg)
+2978 Janki Devi College
+2979 Desu Office
+298 Desu Colony Janak Puri
+2980 CGHS Dispensary
+2981 Indra Kalyan Vihar
+2982 Metal Forging
+2983 New Delhi Railway Station Gate 1
+2984 Hamdard Nagar / Sangam Vihar
+2985 Sarojini Nagar Depot
+2986 NSIT (Netaji Subhas Institute) / Sulahkul Mandir
+2987 NASC Dasghara
+2988 Haryana Pottries
+2989 Jharoda Crossing/Nazafgarh Terminal
+299 Old Anaj Mandi
+2990 Bhogal (Jungpura)
+2991 Vivek Vihar ITI
+2992 Jyoti Colony Durga Puri
+2993 ISBT Anand Vihar
+2994 Inderpuri A-Block
+2995 Moti Nagar Industrial Area
+2996 Laxmi Nagar / Shakarpur Crossing
+2997 New Police Lines
+2998 Surya Nagar
+2999 Arjun Path
+3 Kidwai Nagar
+30 Samrat Enclave
+300 Palika Kendra
+3000 Pocket-5 Mayur Vihar Ph-1
+3001 DDA Flats Kalkaji
+3002 Vasant Vihar F Block Poorvi Marg
+3003 ITO (Agarwal Chowk)
+3004 Radha Swami Satsang / Rupali Enclave
+3005 Beriwala Bagh
+3007 Bajit Pur Xing
+3008 CRPF Camp
+3009 BrahmPuri Colony
+301 Garrison Engg.
+3010 Aman Puri
+3011 Pitampura RU-Block
+3012 AIIMS
+3013 Madhuban Chowk PP Metro Stn
+3014 Golf Club
+3015 Mundhela Crossing
+3016 Udaseen Ashram
+3017 Khera More
+3018 Old Delhi Railway Station
+3019 PT College Kotla
+302 Rohini West Metro Station
+3021 Humayun Road Khan Mkt Metro Stn
+3022 Issapur Xing
+3023 Ghuman Hera Village
+3024 IG Stadium
+3025 Khalsa College
+3026 Krishi Vihar
+3027 Rajdhani Park
+3028 Pragati Maidan Gate 5
+3029 Guru Govind Singh College
+303 PS Ranhola
+3030 NHW-24 Xing (Gazipur Xing)
+3031 Prashant Vihar F-Block
+3033 C-2 Janak Puri
+3034 Shastri Nagar A Block
+3035 Kanhaiya Nagar
+3037 Batra Hospital / Satya Narayan Mandir
+3038 Prem Bari Pull
+3039 F Block Kirti Nagar
+304 IGI Airport Terminal 2 (Air India Office)
+3040 New Usman Pur Pusta No-1
+3041 Shakarpur Crossing
+3042 Shivaji Park
+3043 ESI Hospital Okhla
+3045 RK Puram Sec-3
+3046 Delhi Gate
+3047 St. Lawrence School
+3048 Inder Puri JJ Colony
+3049 TB Hospital
+305 Gurudwara Vikaspuri
+3050 Madhuvan Chowk
+3051 R K Puram Sec-5
+3052 Agarsen Hospital
+3053 Mahindra Park
+3054 CGHC Dispensary
+3055 Dichau Chowk
+3056 Aditi College
+3057 Shiv Shankar Dharam Kanta
+3058 Tatesar Village
+3059 Rang Puri
+306 CRPF Jharoda
+3060 Ramdev Chowk Pithori Jhori
+3061 Daulat Pur Village
+3062 Q Block Mangol Puri Terminal
+3063 Dilshad Garden GT Road (R-212)
+3064 Multi Gym
+3065 Seetapuri Extension
+3066 Malikpur Crossing
+3067 Roop Nagar / Shakti Nagar
+3068 PSRI
+3069 Saidul-A-Jab
+307 B2 Block Ashok Vihar Ph II
+3070 Sadhna Enclave
+3071 S J Madrasa
+3072 Vivekanand Marg
+3074 LIG Flats
+3075 INA Colony
+3076 Govindpuri Gali No 5
+3077 Samalkha More
+3078 Rohini Sec 5 (Chhotu Ram Park)
+3079 Bhogal
+308 Mundhela Khurd School
+3080 Lodhi Colony Market
+3081 Harewali Gaon
+3082 Mundhela Kalan School
+3083 I T O Ring Road
+3084 Kanjhawala Village
+3085 Okhla Village
+3086 Sarai Kale Khan ISBT
+3087 Panchayat Ghar
+3088 Punjabi Bagh
+3089 South Moti Bagh (Ring Road)
+309 Jwala Puri / Nangloi Depot
+3090 C-2 Keshav Puram
+3091 Wazirabad Crossing
+3092 Shastri Nagar Shiv Mandir
+3093 Surajmal Stadium
+3094 BSF Camp Chhawla
+3095 Rajeev Nagar
+3096 Mahaveer Enclave Part II  and  III
+3097 Road No-44 Crossing
+3098 Press Apartment
+3099 Tyag Raj Marg
+31 P S Narela
+310 Seelampur Market
+3100 IP College
+3101 Shivam Plywood
+3102 Haldiram
+3103 Bharthal Chowk (Bharthal Road)
+3104 Pragati Vihar
+3105 Ashram Ring Road
+3106 Munirka Family Planning
+3107 Ghuman Hera Crossing
+3108 Sarita Vihar
+3109 AIIMS
+311 Bhartiya Sadhu Samaj
+3110 Nand Nagari Terminal
+3111 Hari Nagar Depot
+3112 Gandhi Vihar Crossing (Duty ChangeOver)
+3113 Prehladpur Crossing
+3114 Mohammadpur Village
+3115 Police Post
+3116 B Block Mangol Puri
+3117 Shalimar Bagh AE Block
+3118 Govindpuri Gali No 5
+3119 Udaseen Ashram
+312 GTB Hospital Xing
+3120 Dharampura
+3121 CPWD Colony Vasant Vihar
+3122 ESI Hospital
+3123 Palam Gaon
+3124 Railway Museum
+3125 E Block Mangol Puri
+3126 Annpurna Mandir
+3127 Shankar Road
+3128 Sawarthya Vihar
+3129 Haiderpur Water Works
+313 Swami Nagar
+3130 Dwarka More Metro Station (Terminal)
+3131 Multan Nagar
+3132 Sundar Apartments
+3133 Mangol Puri J Block
+3134 Krishna Nagar A Block
+3135 Nirmal Hospital
+3136 Kangan Heri - II
+3137 GTB Nagar
+3138 Patpar Ganj Xing
+3139 C2B Janakpuri
+314 Madhu Vihar
+3140 Ram Prastha Temple
+3141 Lado Sarai
+3142 Hauz Khas
+3143 New Seema Puri Depot Cluster
+3144 Dwarka Sec-6 Telephone Exchange
+3145 DPS Matiyala
+3146 Payal Cinema
+3147 Talkatora Road
+3148 Nangloi
+3149 Le Meridian Hotel / Rajendra Prasad Road
+315 East Vinod Nagar Depot
+3150 Gokul Puri
+3151 Ujwa School
+3153 Kalyan Vas
+3154 M Block Sarojini Nagar
+3155 Punjabi Bagh Terminal
+3156 Roop Nagar / Kamla Nagar
+3158 Chander Lok
+3159 High Court
+316 Kalawati Hospital
+3161 Desu Sub Station
+3162 Jharoda Village
+3163 PVC Market / Sarvodya Kanya Vidhyalaya
+3164 Dwarka Sec-1 Mahalaxmi Apartment
+3165 Prem Nagar
+3166 Mother Dairy
+3167 Shivaji Park
+3168 Guru Ravi Das Ashram / Tughlaqabad Extension
+3169 GTB Nagar / Haqiqat Nagar
+317 Rohini Depot - 3
+3170 Prithvi Raj Road
+3171 Delhi Secretariat
+3173 Tilak Nagar
+3174 Jahangir Puri GT Road
+3175 PWD Office / Aruna Nagar Ring Road
+3176 PS Mangol Puri
+3177 Dariyapur Gaon
+3178 Sheikh Sarai Phase II
+3179 Shakarpur Crossing
+318 Bharat Nagar
+3180 Uttam Nagar / A1 Janak Puri
+3181 Mundhela Khurd Village
+3182 Udyog Bhawan
+3183 Natthupura
+3184 Millenium Depot Cluster
+3185 Sultan Pur Xing
+3186 Fire Station
+3187 Kishan Garh
+3188 Anand Gram Kusht Ashram
+3189 Rohini Sec 11 Agarwal Sabha
+319 Red Fort
+3190 Safdurjung Terminal
+3191 Sarai Kale Khan ISBT
+3192 Central School Lodhi Road
+3193 Raghubir Nagar F Block
+3194 Baba Haridass Gitanjali Enclave
+3195 Nehru Vihar
+3196 Ice Factory
+3197 Loha Mandi
+3199 Bharat Nagar
+32 Jatt Khor Crossing
+320 Goela Dairy Crossing
+3200 Faiz Road
+3201 Rani Bagh
+3202 Pooth Kalan
+3203 Shivaji Stadium Terminal
+3204 Rohini Sec 23 Pkt 1 (Green Hill Aptt.)
+3205 Shaheen Bagh Thokar No. 5
+3206 Tatesar Gurukul
+3207 GGS University/ Yamuna Bazar
+3208 National Stadium
+3209 Shahadara Border (Dilshad Garden Mtr Stn)
+321 BSF Campus Chhawla
+3210 CRPF Camp
+3211 Chhath Park Mangol Puri
+3212 Sardar Patel Marg
+3213 Arjun Nagar
+3214 Britannia (Shakurpur)
+3215 Khajuri
+3216 Guru Govind Singh University (Kashmere Gate)
+3217 KD Block Ashok Vihar
+3218 Maya Enclave BSES Office
+3219 Rohini Sec 16 (Maharaja Aggrsen Dharamsthal)
+322 Janakpuri C-1
+3220 Jahangirpuri A-Block
+3221 Jhul-Jhuli Crossing
+3222 Jija Bai Udyogic Sansthan
+3223 Rohini Sec-3/4 Xing
+3224 ESI Hospital
+3225 JD Block Pitam Pura
+3226 Baprola Village
+3227 DCM Chemical
+3228 PNB Geetanjali
+3229 Khajuri
+323 J L Nehru Stadium
+3231 Pandit Park Geeta Colony
+3233 Metro Train Depot
+3234 Karol Bagh Terminal
+3236 Janak Puri B-1 Terminal
+3237 Balak Ram Hospital
+3238 Health Centre
+324 Gurudwara Bangla Sahib
+3241 Karala Village
+3242 Rohini Depot II
+3243 Jag Jivan Ram Hospital
+3244 Shalimar Bagh BJ Block
+3245 Madanpur Khadar Crossing
+3246 Goyla Village
+3247 Swaroop Nagar GT Road
+3248 Maya Puri Crossing Ring Road
+3249 Lodhi Colony
+325 GSKV School No-1 B-Block
+3250 Max Muller Bhawan
+3251 Lodi Colony Corner
+3252 Sardar Patel Road Xing (11 Murti)
+3253 KharKhari Nahar
+3254 Saidula Jab
+3255 Begumpur
+3256 Jagatpuri A Block
+3257 South Extension
+3258 Rampuri
+3259 B R Ambedkar College (Loni Road Xing)
+326 Dhansa Border
+3260 Dwarka Puri
+3261 S Block Mangol Puri
+3262 Guru Govind Singh Marg
+3263 Model Town II
+3264 Mehrauli Terminal
+3265 SFS Flats Sec-2 Power House
+3266 Mohan Singh Market
+3267 ESI Hospital
+3268 SJ Hospital
+3269 Mata Mandir New Friends Colony
+327 CGHS Dispensary
+3270 Upper Ridge Road
+3271 Bhartiya Sadhu Samaj
+3272 B-5 Rohini Som Bazar
+3273 Corporation Bank
+3274 Pitam Pura KD Block
+3275 Kanti Nagar Extension
+3276 Udyog Bhawan
+3277 Kalyan Puri Terminal
+3278 Punjab Khor Village
+3279 R Block Dilshad Garden
+328 Shalimar Bagh(Ring Road)
+3280 Rohini Sec-16 Crossing
+3282 Pant Nagar
+3283 Udyog Bhawan
+3284 Shikar Pur Village
+3285 East Punjabi Bagh
+3286 St Marry School
+3287 PS Chankya Puri
+3288 Dallu Pura
+3289 Dispensary Paharganj
+329 JJ Colony Bawana Crpf Camp
+3290 Badli Xing
+3291 R Block Rajendra Nagar
+3292 Central School (KV)
+3293 Mundka Village (Metro Station)
+3294 Badarpur M B Road
+3295 G Block Hari Nagar
+3296 Baroda House
+3297 D Block Janakpuri
+3299 Geeta Ashram
+33 ISBT Nityanand Marg
+330 Indira Gandhi Stadium
+3300 Raj Nagar
+3301 Bobby Shop
+3302 Kouria Bridge
+3303 Eastern Court
+3304 IP College
+3305 Pragati Power Station
+3306 Sabhapur Crossing
+3307 Rewla Taj Pur More
+3308 Pusta No 2 Sonia Vihar
+3309 Sant Nagar A-1
+331 Sainik Enclave/Vikas Nagar Nala Road
+3310 Zero Pusta
+3311 Jal Vihar Terminal
+3312 JLN Stadium (Sunehripulla Depot)
+3313 MCKR Hospital/Central School
+3314 Khureji Khas
+3315 Jharoda Border
+3317 Nangloi Post Office
+3319 Kali Mata Mandir
+332 C-3 Janakpuri
+3320 Police Station Nizamuddin (Dargah)
+3321 Delhi Jal Board Lajpat Nagar
+3322 Kalyan Vas
+3323 Maa Anand Mayee Marg
+3324 Baprola School
+3325 Andheria More / Chhatarpur Metro Station
+3326 Akbar Road
+3327 Ghumanhera Crossing
+3328 Nawada Gaon
+3329 DJB
+333 Rang Puri Pahari
+3330 Prehlad Pur
+3331 Babar Pur Ext
+3332 Maharaja Agrassen School
+3333 Nehru Vihar Xing
+3334 Gagan Cinema
+3335 Badli Railway Staion
+3336 Malik Pur Village
+3337 PS Parliament / Jantar Mantar
+3338 Vijay Park
+3339 Akshardham Temple / Pusta Crossing
+334 Saket Crossing
+3340 Jharoda Village
+3341 Poothkhurd Village
+3342 Rawta Crossing
+3343 Jama Masjid
+3344 C-2 Janakpuri
+3345 Jagriti Enclave
+3346 Dhaula Kuan
+3348 Nimri Colony
+3349 MTNL Saraswati Vihar / Aayuddh Bhandar
+335 Ghevra Crossing (Kanjhawala Road)
+3350 Khyber Pass
+3351 Ahinsa Sthal
+3352 C-8 Keshav Puram
+3353 Shivani Apartments/ Kunj Vihar Sector-12 Dwarka
+3354 Barakhamba Metro Station
+3355 Sanjay Gandhi Transport Nagar
+3356 Sanjay Gandhi Transport Nagar
+3357 Bamnoli Power Station
+3358 Rohini Sec-11 (Aggarwal Sabha)
+3359 Swami Malai Mandir
+336 BSF Campus Chhawla
+3360 Apollo Hospital
+3362 Barwala School
+3363 South Extension
+3364 Mundhela Kalan Village
+3366 Aman Puri
+3367 CGO Complex
+3368 New Kondali A1 Crossing
+3369 Inder Enclave
+337 M Block Greater Kailash- II
+3370 Sheikh Sarai Phase II
+3371 Saini Enclave
+3372 Shaheed Bhagat Singh Marg
+3374 Punjabi Bagh Terminal (Rohtak Road)
+3375 Gurudwara Bangla Sahib
+3376 Pitam Pura Power House
+3377 Vasant Vihar Poorvi Marg
+3378 Inder Puri (Krishi Kunj)
+3379 Pitampura CD-Block
+338 Ranhola Village
+3380 Thana DB Gupta Road
+3381 Dera Satguru Sewaram Sahai Sec 24/25
+3382 Ladpur Village
+3383 Dabri Xing
+3384 Vasant Kunj sec-B1
+3385 Inderpuri (Krishi Kunj)
+3386 Peera Garhi Depot
+3387 Safdarjung Enclave
+3388 PS Mayapuri
+3389 ISBT Ring Road
+339 Lodhi Colony 18-Block
+3390 Puspanjali Enclave
+3391 R K Puram Sec-3
+3392 Max Mueller Marg
+3393 Khirki Village
+3394 Sukhdev Vihar Depot
+3395 Lodhi Colony
+3396 Mandi House
+3397 National Law University Delhi
+3398 West Enclave Terminal
+3399 Laxmi Vihar
+34 CRPF Camp
+340 Burari Transport Authority
+3400 Guru Govind Singh University (Kashmere Gate)
+3401 BakkarWala Crossing
+3402 Air Force HQ / Subroto Park
+3404 Nauroji Nagar
+3405 Ghuman Hera DTC Depot
+3406 Madhu Vihar
+3407 Naraina Vihar
+3408 Taj Pur More
+3409 Chauhan Patti (Terminal)
+341 Shri Ram College
+3410 Rewla Tajpur Crossing
+3411 I O L
+3412 Garhi Village
+3413 JJ Colony Wazir Pur
+3414 New Anaj Mandi
+3415 Q-Block Mangolpuri
+3416 Mitraon Village (Kair Village Road)
+3417 KD Block Ashok Vihar
+3418 Lajpat Nagar 2 Ring Road
+3419 Bhai Parmanand Colony
+342 Krishi Bhawan / Rail Bhawan Metro Station
+3420 Kapashera More
+3421 Mukundpur (Changeover Point)
+3422 Loha Mandi
+3423 Lajwanti Garden (Nangal Raya)
+3424 Arjun Nagar
+3425 Campa Cola
+3426 Kalyan Vihar Terminal
+3427 Ahinsa Sthal
+3428 Roshnara Bagh
+3429 Supreme Court / Pragati Maidan Metro Station
+343 Swaroop Nagar JJ Colony (GT Road)
+3430 Narain DharamKanta
+3432 Dwarka Sec-19 Modern School
+3433 Kotla Vihar Phase I
+3434 President Cabinet Apartments
+3435 Telephone Exchange
+3436 Firoz Shah Road
+3437 Ashok Vihar I Block
+3438 Brahm Shakti Hospital
+3439 RML Hospital
+344 Rajdhani College / Raja Garden
+3441 Industrial Area Bawana Sec 3
+3442 Prashant Vihar F Block
+3443 Mitraon School
+3444 Geetanjali Enclave
+3445 Burari Crossing
+3446 Pant Nagar
+3448 Thana DB Gupta Road
+3449 Sukh Dev Vihar
+345 Bharthal Chowk (Bharthal Road)
+3450 Brahm shakti hospital
+3451 Maurice Nagar II
+3452 Kirodi Mal College
+3453 Health Center
+3454 Govt School Dilshad Garden
+3455 Garrison Engg.
+3456 New Dwarka Road Seetapuri
+3457 Desu Office
+3458 Lal Kuan
+346 East Vinod Nagar Depot
+3460 Madipur Village
+3461 Majnu Ka Teela Ring Road
+3462 Rainy Well
+3463 Gopal Pur Crossing / Jagatpur Crossing
+3464 Rajghat Cluster Depot
+3465 Windsor Place
+3466 Harsh Vihar
+3467 Indra Vihar
+3468 Dwarka Sec 19-20 Crossing
+3469 ISBT Nityanand Marg
+347 Vayu Sena Bad (Tigri)
+3470 AirForce Station (BaniCamp)
+3471 Qamruddin Nagar
+3473 Pusta No 1 Sonia Vihar
+3475 Monitoring  and  Receiving Station
+3476 East of Kailash C-Block
+3477 Geeta Colony
+3478 Harsh Vihar
+3479 Supreme Court
+348 Rithala Crossing
+3481 Ram Jas Road
+3482 Nanak Heri Village
+3484 Harsh Vihar
+3485 Gazipur Depot
+3486 Sanoth Xing / Ghogha Xing
+3487 Shiva Enclave/ New Multan Nagar
+3488 PS Ranhola
+3489 Bharat Mata School
+349 CGO Complex
+3490 Karala Patshala
+3491 Nand Nagari E-Block
+3492 Statesman House
+3493 Rawta Crossing
+3494 Majeedia Hospital
+3495 R K Puram Sec-8
+3496 Prithviraj Road Crossing
+3497 Shajahan Road UPSC
+3498 Okhla Tank
+3499 Tilak Pul
+35 Nand Nagari Depot
+350 Dichau Kalan School
+3500 Moti Nagar Industrial Area
+3501 President Cabinet Apartments
+3502 Madarsa / Welcome Seelam Pur
+3503 Amir Khusro Park / Oberoi Hotel
+3504 Beriwala Bagh
+3505 CV Raman ITI
+3506 Shalimar Bagh
+3508 Ganpati Mandir
+351 IA Block Ashok Vihar
+3510 New Rajdhani Enclave
+3511 Kamruddin Nagar
+3512 Girls School Vivek Vihar
+3513 Shakur Basti
+3514 CRPF Jharoda 2
+3515 Khayala More/ Subhash Nagar Crossing
+3516 Malka Ganj Terminal
+3517 Hargovind Enclave
+3518 MCKR Hospital
+3519 Jagatpuri F-Block
+352 Sai Baba Mandir (Nazafgarh)
+3520 I P College
+3521 Dwarka Sec 13
+3522 Road no-44 Xing
+3523 Savitri Cinema (E Block Gurudwara)
+3524 Rajendra Place
+3525 Barwala Village
+3526 Munirka DDA Flats
+3527 Aakashwani Bhawan (Imtiyaz Ali Road)
+3529 Ram Pura (Ashoka Park)
+353 Rajouri Garden
+3530 Prince Apartment
+3531 Gol Daak Khana
+3532 Kapashera Border
+3533 Lokesh Cinema Nangloi JJ Colony
+3534 E-2 Vasant Kunj
+3535 Rohini Sec 20/21 More
+3536 Shiv Murti II/NH-8 Dawrcka More
+3537 Vidya Marg Crossing
+3538 Nathu Colony
+3539 New Police Line
+354 Khalsa College
+3540 Pragati Maidan Terminal
+3541 S Block Greater Kailash- II
+3542 Bhagat Singh Nagar
+3543 Krishi Vihar
+3544 Welcome Colony
+3545 Harkesh Nagar
+3546 Azadpur Terminal
+3547 Kotla Village
+3548 District Centre Najafgarh Road
+3549 Rithala Village
+355 Modern School
+3550 Dwarka Sec-21 Metro Station (Road Crossing)
+3551 Oxford School
+3552 Akbar Bhawan
+3553 Ambedkar Stadium Terminal
+3554 AirForce Station (BaniCamp)
+3555 Aakashwani Bhawan
+3556 Munirka Village
+3558 Vasant Kunj Sec-A ILBS
+3559 Issapur School
+356 Zunk Market
+3560 Jai Vihar
+3561 Sangam Cinema
+3562 T Block Mangol Puri
+3563 Mall Road
+3564 ISBT Sarai Kale Khan
+3565 Vasant Village / Shani Mandir
+3566 Azad Market
+3567 Nehru Place
+3568 Filmistan
+3569 High Court
+357 Tikri Piyau / Azad Hind Gram
+3570 Geeta Ashram
+3571 Dwarka Flyover / Palam Village
+3572 Sri Nagesh Garden
+3573 Kangan Heri - I
+3574 Gazi Pur DDA Flats
+3575 Sarai Rohilla Flyover
+3576 School Of Physical Science
+3577 Kirbi Place
+3578 Golf Club
+3579 Ravinder Rang Shala
+358 Mahipal Pur Crossing
+3580 KharKhari Jatmal
+3581 Indraprastha Park
+3582 ISBT Kashmere Gate Terminal
+3583 Bijwasan Railway Crossing
+3584 Kohat Enclave Metro Station
+3585 ESI Dispensary/CGHS Dispensary
+3586 Ibrahim Pur More
+3587 Ashram (Hari Nagar)
+3588 Bhalaswa Xing
+3589 State Bank Colony
+359 Nehru Place Terminal
+3590 Ansari Health Care
+3591 Siri Fort Road
+3592 Satya Puram Jharoda
+3594 Holy Child School
+3595 Jagjit Nagar
+3596 Chawla Stand Najafgarh
+3597 Samaspur Jagir Village (Pusta Xing)
+3598 Peera Garhi Metro Station
+3599 Civil Line Metro Station
+36 Karala Crossing
+360 Basai Darapur / Ramesh Nagar
+3600 Sabhapur Crossing
+3601 Lalita Park
+361 DTC Apartments
+362 Panchsheel Club (Sarv Priya Vihar)
+363 Chandra Lok
+364 Kalkaji Mandir (MaaAnandmayeeMarg)
+365 Talkatora Stadium Garden
+366 Okhla Extension (Abul Fazl Encalve)
+367 Kalkaji Mandir
+368 Rajghat Gandhi Darshan
+369 Kair Depot
+37 Subhash Nagar Crossing / Mukherji Park
+370 Nangloi JJ Colony
+371 Raj Ghat
+372 Raja Puri
+373 Kotla Vihar Phase I
+374 Maharaj Pur Check Post
+375 Gupta Market
+376 Badli Telephone Exchange
+377 Prehladpur Village
+378 Hansraj College
+379 Dwarka Sec 13-3 Xing
+38 ESI Hospital
+380 Pandwala Khurd
+381 Kanjhawala Depot
+382 Bharti Public College
+383 Jaipur House
+384 Dauralla Village
+385 Yamuna Vihar Brijpuri
+386 Power House
+387 Chirag Delhi
+388 Maharishi Valmiki Hospital / Pooth Khurd
+389 Police Station Paharganj
+39 Rohini Depot 1 Sec 6
+390 Gole Market (Bhai Veer Singh Marg)
+391 Mitraon Extension
+392 Jamiya Millia College
+393 Tikri Border
+394 Prem Nagar
+395 Sanskrit Vidyapeeth
+396 Thimiyan Park
+397 Shahdara (Shyam Lal College)
+398 Surya Nagar
+399 Inderpuri A-Block
+4 Rashid Market
+40 Chhawla Village
+400 Ram Pura (Ashok Park)
+401 NHW-24 Xing (Gazipur Xing)
+402 Kiran Garden
+403 T B Hospital
+404 Shakurpur Shiv Mandir
+405 Prithviraj Road Crossing
+406 Shahdara Railway Bridge
+407 Masjid Moth
+408 Bapu Dham
+41 Ayurvigyan Nagar
+410 Madan Pur Dabas
+411 RK Puram Sec-9
+412 C R Park Market 2
+413 New Moti Bagh B Block
+414 Tyag Raj Marg
+415 Delhi Gate (JLN Marg)
+416 Jatt Khor Village
+417 Shakur Pur JJ Colony/ Britannia
+418 PNB Geetanjali
+419 NDPO
+42 A-3 Janak Puri
+420 Wazirpur Depot Road No 41 (Subhash Place Market)
+421 Nehru Bus Stand Goyla Dairy
+422 RK Puram Sec-10
+423 Shiv Murti
+424 Shivaji Stadium Terminal
+425 Bawana
+426 Badarpur Border
+427 Tahir Pur
+428 Sunder Nagri
+429 Turkman Gate / G B Pant Hosipatal
+43 Mundka Xing
+430 Bara Bagh
+431 Meet Nagar
+432 ISIC Hospital (Verma farm)
+433 C-4 Keshav Puram
+434 Bharat Nagar Xing
+435 Old Delhi Railway Station (Fatehpuri)
+436 AIR Force Camp
+437 Ghuman Hera School
+438 DDA Kalkaji Extn
+439 Harijan Basti
+44 Dena Apartments
+440 Shadipur Colony
+441 Vijaya Laxmi Apartment
+442 Radhu Palace
+443 Gatta Factory Sonia Vihar
+444 Rohini Sec-9 /7
+445 Vikaspuri Xing
+446 Pooth Kalan
+447 Lado Sarai Crossing
+448 Karala Crossing
+449 Baba Haridass Nagar
+45 Roop Nagar
+450 Prem Nagar
+451 Saraswati Kunj
+452 Bakkar Garh Xing
+453 INMAS
+454 ISBT Sarai Kale Khan
+455 Hyatt Hotel
+456 Rama Park
+457 Subhadra Colony
+458 Hassanpur Village
+459 Nizamuddin Extension
+46 Jhilmil Xing
+460 Guru Ravi Das Ashram / Tughlaqabad Extension
+461 Vayu Sena Bad (Tigri)
+462 Shahbad School
+463 Lodhi Colony
+464 Pochhan Pur Village Crossing
+465 Metal Forging
+466 Kapashera Crossing
+467 Officer Enclave S.P Marg
+468 Pittampura BU-Block
+469 Issapur Village Temple
+47 Panchsheel Club
+470 C1 Janak Puri
+471 B Block Mangol Puri
+472 Ghuman Hera Crossing
+473 Rohini Sec-16 Xing
+474 Chand Cinema
+475 Police Post
+476 St. Xavier School Shahbad
+477 Sunehari Pulla Depot / Jawahar Lal Nehru Stadium Terminal
+478 Ram Vihar
+479 Dashmesh Public School
+48 Rishal Garden
+480 Raja Garden
+481 Bharat Nagar
+482 Shastri Park
+483 Pal Colony
+484 Dwarka Sec-6/7
+485 Dichau Chowk
+486 Mori Gate Terminal
+487 FCI Ghevra
+488 Bara Hindu Rao
+489 Samrat Enclave
+49 Anand Parvat Terminal
+490 Dhool Siras
+491 Shastri Park
+492 Ranhola II
+493 South Patel Nagar (Metro Station)
+494 Vasant Lok
+495 Maidan Garhi Crossing (SDM Court)
+496 Sant Nagar
+497 Mangol Puri J Block
+498 PS Mangol Puri
+5 Nehru Nagar
+50 Zafrabad School
+500 New Rajinder Nagar Post Office
+501 Mangol Puri Y Block
+502 Doulat Ram College
+503 Kirari Gaon
+504 Shahdara Border
+505 Delhi Police Training School
+506 Badu Sarai Village
+507 Keshav Nagar Mukti Ashram
+508 Okhla Village (Temporary)
+509 Faiz Road
+51 Shalimar Bagh (Ring Road)
+510 Siras Pur Chhattri
+511 APS Colony/ Jharera Gaon
+512 Railway Colony (Sardar Paltel Marg)
+513 11 Murti
+514 Chhajupur
+515 Kapashera Village Bijwasan Road
+516 Todapur Village
+517 Rohini Sec 11 Pkt A (Swarn Jayanti Park)
+518 Zero Pusta
+519 Shahdara Terminal
+52 Balak Ram Hospital
+520 DTC Apartments
+521 Madhuban Chowk Outer Ring Road
+522 Kohat Enclave Metro Station
+523 Punjabi Bagh Terminal
+524 R K Puram Sec-7
+525 DTC Apartments
+526 Surya Niketan
+527 Railway Road Bridge
+528 Darya Ganj
+529 Exchange Store / Civil Lines Metro Station
+53 Hauz Rani
+530 Mall Road
+531 CRPF Camp / Crown Plaza
+532 Faiz Road
+533 C Block Mangol Puri
+534 Hiran Kudna Crossing
+535 Rani Bagh Railway Colony
+536 Pandav Nagar
+537 ISBT Kashmere Gate
+538 Dariyapur Gaon
+539 East Patel Nagar
+54 PS Kamla Market
+540 PS Tughlaq Road
+541 Telephone Exchange Karol Bagh
+542 KharKhari Rondh
+543 Mohan Garden
+544 Mayur vihar Phase-III Crossing
+545 Chandpur Xing
+546 Chanchal Park
+547 Gurudwara Rakab Ganj
+548 Kidwai Nagar
+549 Nangloi
+55 Timarpur
+550 Sunder Nagar
+551 Lajwanti Garden
+552 Visram Chowk
+553 Dera Satguru Sewaram Sahai Sec 24/25
+554 Moti Nagar
+555 Check Post
+556 Jharoda Crossing/Nazafgarh Terminal
+557 Nanak Piyau / DTC Colony
+558 Central School Lodhi Colony
+559 Fire Station
+56 Chhawla Village
+560 Rajapuri
+561 Raghubir Nagar N Block
+562 Ambedkar Nagar Terminal
+563 Chand Nagar
+564 Pitampura JD Block
+565 Rajeev Nagar
+566 Dwarka Sec 13
+567 Sarojini Nagar Depot
+568 Nizamuddin Extension
+569 Mori Gate Terminal
+57 Shadipur Depot
+570 Pusa Quarters
+571 Madhuvan Chowk
+572 Sant Vivekanand School
+573 R. K. Puram Sec-12
+574 Sant Vivekanand School
+575 Le Meridian Hotel
+576 RK Khanna Tennis Stadium
+577 D Block Surajmal Vihar
+578 Shakarpur School Block
+579 Air Force Officers Flats Dhaula Kuan
+58 Dwarka More Metro Station (Sewak Park)
+580 Shakti Nagar Nangia Park
+581 Major Bhupinder Singh Nagar
+582 Daulat Pur Crossing
+583 Ram Pura (Ashok Park)
+584 Subroto Park (Arjun Path)
+585 Dhaula Kuan
+586 Qutab Minar
+587 Air Force Station
+588 Padhmini Enclave
+589 Majnu Ka Teela Ring Road
+59 Rohini Sec 16/17
+590 Gandhi Vihar
+591 Andheria More / Chhatarpur Metro Station
+592 Najafgarh Delhi Gate
+593 Shri Krishna Gaushala
+594 Ajmeri Gate / Kamla Market
+595 Inder Enclave
+596 ESI Hospital
+597 H-3 Vikas Puri
+598 Ordinance Depot
+599 Gurudwara Bangla Sahib
+6 Sunder Nagar
+60 NajafGarh Delhi Gate
+601 Defence Colony (Homyopathic College)
+602 Saiyyad Nagar Dilshad Garden
+603 Gujranwala Town
+604 Sarita Vihar D Block / Madanpur Khadar Village
+605 Palam More
+606 DDA Market Kalkaji
+607 Jahangirpuri B Block
+608 Maharani Bagh / Ashram
+609 Q-Block Mangolpuri
+61 Katwaria Sarai
+610 Tagore Garden Gurudwara / Holy Child School
+611 ARSD College (Dhaula Kuan)
+612 Desu Colony
+613 Fateh Nagar
+614 ITO
+615 Amrohi More
+616 Mangolpur Police Lines
+617 DDA Market Kalkaji
+618 Sapera Basti Crossing
+619 Government Press
+62 Okhla Depot IV CWS II
+620 Nizamuddin Railway Station
+621 Narain DharamKanta
+622 Anand Parbat Industrial Area
+624 Okhla Phase 1
+625 Bharat Nagar Crossing
+626 Talkatora Stadium
+627 Malka Ganj Terminal
+628 Sadhna Enclave
+629 P S Pandav Nagar
+63 Mukharji Nagar Tank
+630 Khichdipur
+631 Samalka Crossing
+632 Bhikaji Cama Place
+633 Satyawati College
+634 ITO
+635 GTB Hospital
+636 West Enclave
+637 Dev Nagar
+638 Mayur Vihar Phase III A1 Block
+639 Nanak Heri School
+64 B-4 Keshav Puram
+640 Kendriya Terminal / Gurudwara Rakab Gunj
+641 Bapa Nagar
+642 Tara Apartments Terminal
+643 Sec A-9 and A-6 Narela
+644 CGO Complex
+645 Ghevra Village
+646 Janak Puri B-3
+647 ShivRam Park
+648 Peera Garhi Chowk
+649 Kalka Ji Depot Govindpuri
+65 DB Gupta Market
+650 Chauhan Patti (Terminal)
+651 Lajpat Nagar Crossing
+652 Tagore Garden
+653 Shastri Park DMRC Depot
+654 Ber Sarai
+655 Nirman Bhawan
+656 District Centre Outer Ring Road
+657 Radheypuri
+658 Gazi Pur DDA Flats
+659 Kair Depot
+66 Satyam Apartments
+660 Lajwanti Garden
+661 Janki Devi College
+662 Surya Nagar
+663 Prithvi Raj Road Crossing
+664 Shalimar Bagh BA Block
+665 East Azad Nagar
+666 Dilshad Garden School
+667 JLN Marg
+668 Rojdoot Hotel
+669 South Moti Bagh
+67 Pragati Vihar
+670 Jahangir Puri Outer Ring Road
+671 Daya Basti Flyover
+673 Gamri Extn Pusta No.5
+674 Shadipur Depot
+675 Badli Xing
+676 Mukraba Chowk
+677 Jahangirpuri GT Road (Metro Station)
+678 Todapur Village
+679 DB Gupta Market
+68 ITO Ring Road
+680 Doctors Apartments
+682 Ram Jas Road
+683 Khayala More/ Subhash Nagar Crossing
+684 PS Bawana
+685 Delhi Vidhan Sabha
+686 Kidwai Nagar (INA Colony)
+687 Rajouri Garden
+688 SJ Madrasa
+689 Mayur vihar Phase-III Crossing
+69 Sultan Pur Crossing / Poothkhurd
+690 Surajkund Crossing
+691 Shalimar Bagh BH Block
+692 Vigyan Bhawan
+693 R R Line
+694 Mangolpuri Y Block
+695 Golf Club / Sunder Nagar
+696 Balco Apartment
+697 C-1 Keshav Puram
+698 Qadipur
+699 Ghuman Hera School
+7 Suraj Mal Vihar
+70 Kalka Ji Crossing
+700 New Rajdhani Enclave
+701 Daya Basti
+702 Super Bazar
+703 Chowki No 2 / Gulabi Bagh Crossing
+704 IP Power Station / ITO Ring Road
+705 Geeta Colony Block 5
+706 Power House Rohini Sec 24
+707 Pushpa Bhawan
+708 Qamruddin Nagar Terminal
+709 Kanjhawala Depot (Narela Road)
+71 Shri Ram College
+710 IOL
+711 Sai Apartment
+712 Tilak Nagar
+713 East Vinod Nagar Depot
+714 Krishna Park
+715 Mata DanKaur Public School
+716 Gazipur Dairy Farm
+717 Shaheed Bhagat Singh Nagar
+718 Chaukhandi
+719 Wazirpur Depot / Subhash Place Depot
+72 Chanchal Park
+720 Bhikaji Cama Place
+721 Harijan Basti
+722 Red Fort
+723 Mahindra Park Road No-44
+724 Geeta Colony Block 5
+725 Dharma Apartment
+726 Ranhola Extension
+727 Ramleela Ground Geeta Colony
+728 Surehra Village
+729 Hamdard Nagar / Sangam Vihar
+73 Kathuria Public School (Sai Darbar Mandir)
+730 Dwarka Sec-1 Mahalaxmi Apartment
+731 Moti Nagar Market
+732 JJ Colony Bawana Road
+733 Gulabi Bagh
+734 Uttam Nagar
+735 Shastri Park
+736 Balak Ram Hospital
+737 Deepali Chowk
+738 Rail Bhawan Metro Station / Krishi Bhawan
+739 Qutub Vihar Phase-I Kikar Stand
+74 Naraina Vihar
+740 Shikar Pur Crossing
+741 Ram Vihar
+742 Kanya Sarvodya School Shikar Pur
+743 IIT Hostel
+744 Maruti Factory
+745 Baprola Village
+746 C4 Yamuna Vihar Crossing
+747 Jain Colony
+748 Burari Village
+749 Prem Bari Pul
+75 Prehlad Vihar (Deep Vihar)
+750 C2D Janakpuri
+751 R K Puram Sec 9
+752 Hanuman Mandir Rohini Sec 24
+753 Jahangirpuri GT Road
+754 Kibri Place
+755 Corporation Bank
+756 PTS Jharoda Kalan
+757 Gamri Ext / Pusta 5
+758 RK Puram Sec 1
+759 Pochan Pur Village
+76 Moti Bagh Gurudawara Nanakpura
+760 Ram Prastha Crossing
+761 Desh Bandhu College
+762 Red Fort
+763 Janak Vihar
+764 Hari Nagar (Mohan Mandir) Mayapuri
+765 Rajender Nagar
+766 Mangolpuri K Block (Sanjay Gandhi Hospital)
+767 Dhaula Peer
+768 GTB Nagar / Haqiqat Nagar
+769 Ice Factory (Roshanara Road)
+77 Laghu Udyog Sansthan(ModiMill)
+770 Bharthal Under Pass
+771 C Block Vikaspuri
+772 Kapashera Village Bijwasan Road
+773 Samaypur School
+774 Bhalaswa Xing
+775 IIT Gate (Aurobindo Marg)
+776 Telephone Exchange
+777 Okhla Village
+778 Jahangirpuri GT Road
+779 Mundhela Kalan School
+78 Shalimar Bagh A Block
+780 PT College Kotla
+781 Dwarka Sec 1
+782 Panchsheel Club
+783 Madipur Village
+784 CRPF Camp Okhla Phase 1
+785 Raja Garden
+786 Rithala Village
+787 Jija Bai Udyogic Sansthan
+788 Samaspur Khalsa
+789 Mayur Vihar Phase II
+79 The Uppal Hotel
+790 Bijwasan Railway Crossing
+791 Kirari Gaon
+792 Kanjhawala Chowk
+793 Nai Basti
+794 Vidhan Sabha Metro Station
+795 Hardev Puri
+796 GTB Nagar
+797 Kanjhawala Haryana Shakti C-School
+798 R K Puram Sec-2
+799 Sena Bhawan
+8 National Archives
+80 Lady Shri Ram College
+800 ISBT Ring Road
+801 GTB Hospital
+802 Road No-44 Crossing
+803 Shastri Nagar E Block
+804 Majeedia Hospital
+805 West Enclave
+806 Scindia House
+807 Express Building
+808 Seelam Pur Petrol Pump
+809 KharKhari Nahar
+81 AkbarRoad
+810 Unani Hospital / Okhla Ext Thokar 3
+811 Yusuf Sarai
+812 Yusuf Sarai
+813 Jhandewalan
+814 New Dwarka Road / Seetapuri
+815 New Sabzi Mandi
+816 Mayur Vihar Phase III Crossing
+817 Sukhdev Vihar
+818 Shivaji College
+819 Sabhapur More
+82 APS Colony
+820 Qamruddin Nagar
+821 DTC Rajghat Depot
+822 Kasturi Ram School
+823 Bawana Village
+824 CWG Village / PWD Office
+825 East Krishna Nagar
+826 Welcome Colony
+827 Ladpur School
+828 Vasant Kunj Sec-A Pkt-BC
+829 Anand Gram
+83 Purani Basti Rewla Tajpur
+830 Shashi Garden Xing
+831 Mangol Pur School
+832 National Stadium
+833 Radha Swami Satsang / Rupali Enclave
+834 Guru Govind Singh College
+835 ESI Dispensary
+836 Jamiya Millia College
+837 Rohini Sec 18 Bus Terminal
+838 Kendriya Terminal
+839 Gupta Market
+84 Lado Sarai Crossing
+840 Jonti Village
+841 State Bank Colony
+842 Peeragarhi Chowk
+843 Khajuri School
+844 Goodwill Apartment
+845 Green Field School
+846 New Delhi Railway Station Gate 2
+847 Aero City Metro Station
+848 Jain Colony
+849 Shakarpur
+85 Vivek Vihar Terminal
+851 Govindpuri
+852 Anand Vihar ISBT Terminal
+853 Zakhira Flyover
+854 E Block Jahangir Puri Terminal
+855 Rama Park
+857 Mundka Main Rohtak Road School
+858 South Moti Bagh (Ring Road)
+859 H-3 Vikas Puri
+86 Kewal Park
+860 Jonti Village
+861 Raksha Vigyan Kendra / Metcalf House
+862 Surajmal Stadium
+863 NHAI Building/ Dwarka Sec-10 Metro Station
+864 Nangloi
+865 MB Road
+866 Dr. RML Hospital
+867 Shakur Pur
+868 Inder Puri (Krishi Kunj)
+869 ITI Khichiripur
+87 National Law University Delhi
+870 Delhi Secretariat
+871 Patel Chowk
+872 Meera Bagh Apartment
+873 Mansarovar Park Metro Station
+874 Baprola School
+875 Claridges Hotel
+877 Amrit Vihar
+878 Major Bhupinder Singh Marg
+879 Munirka DDA Flats
+88 Onida Factory
+880 Satyam Enclave / Jhilmil DDA Flats
+881 Ajmeri Gate / Kamla Market
+882 Jor Bagh
+883 Vidhan Sabha Metro Station
+884 Tilak Nagar / Sant Pura
+885 Krishi Bhawan
+886 Naraina Village
+887 Sainik Enclave Jharoda
+888 Sujan Singh Park
+889 Avantika Sec-2
+89 Race Course
+890 Sant Nagar Main Market
+891 Laxmi Nagar Metro Station
+892 Ishwar Colony
+893 Ujwa Gaon
+894 Mayur Vihar Phase III A1 Block
+896 Krishna Park
+897 Saket Metro Sation
+898 Bharat Mata School
+899 DDA Flats Kalkaji
+9 Darya Ganj
+90 Haidarpur Water Works
+900 Sanoth Xing / Ghogha Xing
+901 Qutub Hotel
+902 Rajouri Garden Market
+903 Rohini Sec 22/24 Crossing
+904 Balaji Enclave
+905 Dwarka Sec 3/4
+906 S Block Greater Kailash- II
+907 Malik Pur Village Crossing
+908 Lok Vihar
+909 Khera Village
+91 BBM Cluster Depot
+910 Savitri Cinema
+911 Rajghat Gandhi Darshan
+912 Jai Vihar
+913 Jaitpur Mor
+914 Metcalfe House
+916 DDA Flats Lado Sarai
+917 R K Puram Sec-3
+918 Tughlaqabad Extn
+919 Kasturba Gandhi Crossing
+92 Shakarpur
+920 Vivekanand Mahila College
+921 Tehkhand Depot DTC
+922 Sabji Mandi Azadpur
+923 New Delhi Railway Station Gate 2
+924 Patel Chest
+925 Hansraj College
+926 Vijay Ghat
+927 Keshopur Depot
+928 ISIC Hospital (Verma farm)
+929 GTK Depot
+93 Punjabi Bagh East
+930 Shahbad Daulatpur Gaon
+931 Sultan Pur Crossing / Poothkhurd
+932 Jagatpuri  A Block
+933 Old Delhi Railway Station
+934 NHW 8
+935 LNJP Hospital
+936 Jhandewalan
+937 Deep Market Ashok Vihar
+938 Prem Nagar
+939 Dwarka Sec 1 Road No. 201
+94 Ramesh Park
+940 Lajpat Nagar
+941 Bodhik Sampda Bhawan
+942 Gurudwara Nanak Pyau
+943 Pittampura AP-Block
+944 Pandwala Crossing
+945 Krishan Menon Marg
+946 NTPC
+947 Shivpuri Colony
+948 DA Block Hari Nagar
+949 Zakhira
+95 SNPD
+950 Ranhola II
+951 Indra Vihar
+952 Haryana Pottries
+953 Inderlok
+954 Sunder Vihar
+955 Ujwa Gaon
+956 Ashram Chowk
+957 Mori Gate Terminal
+958 J  and  K Pocket Dilshad Garden
+959 Suraj Mal Vihar
+96 Bawana Depot
+960 Panchkuian Road
+961 Nand Nagari E-Block
+962 NDPO
+963 Kanjhawala Village
+964 Dwarka Crossing/ Dwarka Sec 1
+965 Delhi Sachivalaya (Raj Ghat Power House)
+966 Indian Oil Bhawan
+967 Mundka School
+968 Karol Bagh Metro Station
+969 Mundhela Crossing
+97 Dauralla Border
+970 Lal Bahadur Shashtri Hospital
+971 Chanakya Bhawan
+972 DSIDC Bawana/ Dhakewala
+973 Jharkhandi
+974 Punjabi Bagh Club
+975 Seelam Pur Metro Station
+976 Tikari Village
+978 DDU Hospital
+979 CV Raman ITI
+98 Chandpur Xing
+981 CRPF Camp / Crown Plaza
+982 Tara Apartment
+983 Jahangir Puri Metro Station
+984 Budha Jayanti Park
+985 ESI Hospital
+986 Millenium Cluster Depot
+987 Bank Enclave
+988 Anandlok
+989 Kapil Vihar
+99 Shahbad Dairy Block A
+990 Vocational College
+991 Munirka Family Planning
+992 IOC Dwarka Road
+993 Peera Garhi Metro Station
+995 Rithala School
+996 Ram Puri Gali No 13
+997 G Block Hari Nagar
+998 Uttam Nagar
+999 Rajiv Nagar
