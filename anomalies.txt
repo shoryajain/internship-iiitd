@@ -1,0 +1,7 @@
+I found following anomalies in this data
+
+1. Routes_short_name is missing
+2. Arrival_time == departure_Time for all cases. But in reality, a bus will stop at particular stop for few seconds depening upon number of people wishing to board the bus and thus that should be taken into consideration.
+3. Some data missing from stop code 108Down
+4. No stops for route 264,271,272,79,370
+5. There are some values for attribute route_id which has value in trips but no route with that id exists in routes. These values are 0,1,2
